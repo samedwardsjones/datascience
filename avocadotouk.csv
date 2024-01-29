@@ -10,26 +10,26 @@ Pakistan,26080
 Spain,24679
 Colombia,23190
 Turkey,19046
-Dominican Republic,18568
+Dominican Rep.,18568
 India,10562
 Egypt,9938
 United States of America,8301
 Mexico,7622
-CÃ´te d'Ivoire,6789
+Côte d'Ivoire,6789
 Tunisia,6656
 United Arab Emirates,6558
 Saudi Arabia,5287
 Kenya,5146
 Morocco,5125
 Burkina Faso,5115
-"Tanzania, United Republic of",4289
+Tanzania,4289
 Jordan,4130
 "Palestine, State of",3669
 Senegal,2969
 Zimbabwe,2649
 Guatemala,2470
 Algeria,2082
-"Iran, Islamic Republic of",2036
+Iran,2036
 Malawi,1988
 Bangladesh,1946
 Germany,1909
@@ -50,12 +50,12 @@ Indonesia,479
 Jamaica,432
 Philippines,422
 Uganda,358
-"Venezuela, Bolivarian Republic of",322
+Venezuela,322
 Panama,292
 Ecuador,257
 Belgium,230
 Cayman Islands,225
-Viet Nam,200
+Vietnam,200
 Guinea,155
 Togo,129
 Afghanistan,86
@@ -69,7 +69,7 @@ United Kingdom,38
 Sri Lanka,33
 Lebanon,24
 Nigeria,20
-"Libya, State of",17
+Libya,17
 Sudan,17
 Honduras,16
 Malaysia,14
@@ -110,7 +110,7 @@ Antigua and Barbuda,
 Iraq,
 New Zealand,
 Australia,
-Syrian Arab Republic,
+Syrian,
 Hungary,
 Lithuania,
 Haiti,
@@ -125,12 +125,12 @@ Luxembourg,
 Ethiopia,
 Paraguay,
 Eswatini,
-Russia,
+Russian Federation,
 Bosnia and Herzegovina,
 Burundi,
 Niger,
 Serbia,
-Lao People's Democratic Republic,
+Laos,
 Azerbaijan,
 Dominica,
 Kyrgyzstan,
@@ -138,14 +138,14 @@ Saint Vincent and the Grenadines,
 Guyana,
 Bahrain,
 Sierra Leone,
-"Korea, Republic of",
+South Korea,
 Zambia,
 Fiji,
 Saint Kitts and Nevis,
 Pitcairn,
 "Macedonia, North",
 Angola,
-South Sudan,
+S. Sudan,
 United States Minor Outlying Islands,
 Trinidad and Tobago,
 El Salvador,
@@ -169,4 +169,11 @@ Tuvalu,
 Tonga,
 Botswana,
 Solomon Islands,
-CuraÃ§ao,
+Curaçao,
+Chad,
+Greenland,
+Mongolia,
+Dem. Rep. Congo,
+Mauritania,
+Central African Rep.,
+North Korea,
