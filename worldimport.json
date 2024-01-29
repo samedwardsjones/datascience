@@ -1,0 +1,46 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "#7DAB48",
+  "height": 350,
+  "width": 630,
+  "title": {
+    "text": "Avocado Exports to the UK by Country",
+    "fontSize": 18,
+    "subtitle": ["Avocado Export Data by Country"],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 12,
+    "anchor": "start",
+    "color": "white"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/samedwardsjones/grad-project/main/worldmapgeo.json",
+    "format": {"property": "features"}
+  },
+  "projection": {"type": "naturalEarth1"},
+  "transform": [
+    {
+      "lookup": "properties.name",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/samedwardsjones/grad-project/main/avocadotouk.csv"
+        },
+        "key": "Country",
+        "fields": ["Exports"]
+      }
+    }
+  ],
+  "mark": {"type": "geoshape", "stroke": "", "strokeWidth": 2},
+  "encoding": {
+    "tooltip": [
+      {"field": "properties.name", "type": "nominal", "title": "Country"},
+      {"field": "Exports", "type": "quantitative", "title": "Exports"}
+    ],
+    "color": {
+      "field": "Exports",
+      "type": "quantitative",
+      "scale": {"scheme": "lightmulti"},
+      "title": "Exports"
+    }
+  },
+  "config": {}
+}

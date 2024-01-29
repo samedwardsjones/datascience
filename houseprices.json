@@ -1,0 +1,69 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Regional House Prices in the UK 1986-2021",
+    "color": "white",
+    "subtitle": "Figure 1 - Time series regression of Regional Housing prices in the UK. Source: ONS",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "subtitleColor": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/samedwardsjones/grad-project/main/UKPriceData",
+    "format": {"type": "csv"}
+  },
+  "background": "#7DAB48",
+  "height": 350,
+  "width": 630,
+  "layer": [
+    {
+      "mark": {"type": "point", "filled": true, "color": "white"},
+      "encoding": {
+        "x": {
+          "field": "Year",
+          "type": "temporal",
+          "title": "Time",
+          "axis": {"labelColor": "white", "titleColor": "white"}
+        },
+        "y": {
+          "field": "Average Home Price",
+          "type": "quantitative",
+          "title": "Average Home prices (£)",
+          "axis": {"labelColor": "white", "titleColor": "white"}
+        },
+        "tooltip": [
+          {
+            "field": "Average Home Price",
+            "type": "quantitative",
+            "title": "Average Home price(£)",
+            "format": ",.0f"
+          },
+          {"field": "Region", "type": "nominal"}
+        ]
+      }
+    },
+    {
+      "mark": {"type": "line", "color": "black"},
+      "transform": [{"regression": "Average Home Price", "on": "Year"}],
+      "encoding": {
+        "x": {"field": "Year", "type": "temporal"},
+        "y": {"field": "Average Home Price", "type": "quantitative"}
+      }
+    },
+    {
+      "transform": [
+        {"regression": "Average Home Price", "on": "Year", "params": true},
+        {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+      ],
+      "mark": {
+        "type": "text",
+        "y": -7,
+        "color": "black",
+        "x": "width",
+        "align": "right"
+      },
+      "encoding": {"text": {"type": "nominal", "field": "R2"}}
+    }
+  ],
+  "config": {}
+}

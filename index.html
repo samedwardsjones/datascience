@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="with-device-width, initial-scale=1.0"> 
+        <title>Sam Jones - Github</title>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    </head>
+
+<body>
+        <section class="header">
+            <nav>
+                
+                <div class="nav-links" id="navLinks">
+                    <i class="fa-solid fa-xmark" onclick="hideMenu()"></i>
+                    <ul>
+                        <li><a href="index.html">HOME</a></li>
+                        <li><a href="https://github.com/samedwardsjones">GITHUB</a></li>
+                        <li><a href="avocado.html">THE AVOCADO DEBATE</a></li>
+                        <li><a href="https:samjones033.github.io/project">UNI WORK</a></li>
+                    </ul>
+                </div>
+                <i class="fa-solid fa-bars" onclick="showMenu()"></i>
+            </nav>
+
+            <div class="text-box">
+                <h1>Sam Jones - Data Science</h1>
+                <p>Graduate P3M Consultant at Apache iX | University of Bristol BSc Economics Graduate.<br>Personal and Professional Work.</p>
+                <a href="#contact" class="hero-btn">Contact</a>
+            </div>
+
+            
+            
+        </section>
+<!-------Content ----->
+
+<section class="content" >
+    <h1>Explore Content</h1>
+    <p>Avocados Analysis, Global Recession Work and a PLaceholder for something exciting</p>
+
+    <div class="row">
+        <div class="content-col">
+            <img src="avocado.jpeg">
+            <div class="layer">
+                <a href="portfolio.html"><h3>THE AVOCADO DEBATE</h3></a>
+            </div>
+        </div> 
+        <div class="content-col">
+            <img src="globalrecession.jpg">
+            <div class="layer">
+                <a href="project.html"><h3>GLOBAL RECESSION</h3></a>
+            </div>
+        </div> 
+        <div class="content-col">
+            <img src="comingsoon.jpg">
+            <div class="layer">
+                <a href="google.com"><h3>PLACEHOLDER</h3></a>
+            </div>
+        </div> 
+    </div>
+
+</section>
+
+<!-------Profile ----->
+
+<section class="profile">
+    <h1>About Me</h1>
+
+        <div class="profile-col">
+            <img src="photoofme.jpg">
+            <div>
+                <p>I am a proactive and hard-working individual with a strong desire to learn and grow. I am excited to continue building my professional network and make meaningful connections with others in my, and surrounding, industries. If you would like to connect and learn more about my experience and goals, please feel free to reach out.</p>
+                <h3>Sam Jones</h3>
+            </div>
+        </div>
+    
+
+
+</section>
+
+
+<!-------Contact ----->
+
+<section class="contact" id="contact">
+    <h4>Contact</h4>
+    <div class="icons">
+        <a href="https://twitter.com/laremontada_"><i class="fa-brands fa-twitter"></i></a>
+        <a href="https://github.com/samedwardsjones"><i class="fa-brands fa-github"></i></a>
+        <a href="www.linkedin.com/in/sejones"><i class="fa-brands fa-linkedin"></i></a>
+        <a href="mailto:samedwardsjones@gmail.com"><i class="fa-solid fa-envelope"></i></a>
+    </div>
+
+
+</section>
+
+
+
+<!-------JavaScript for menu toggle ----->
+<script>
+
+    var navLinks = document.getElementById("navLinks");
+
+    function showMenu(){
+        navLinks.style.right = "0";
+    }
+
+    function hideMenu(){
+        navLinks.style.right = "-200px";
+    }
+
+</script>       
+</body>
+</html>

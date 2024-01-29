@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Title for the page -->
+    <title>Project</title>
+
+    <!-- Link to my style sheet -->
+    <link rel="stylesheet" href="avocadostyle.css">
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
+    <!--The next three lines allow the Vega embed-->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.22.1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.2.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+
+    <!--allowing icons -->
+    <script script src="https://use.fontawesome.com/6d838b38c3.js"></script>
+
+
+</head>
+
+
+
+<body>
+
+    <!-- progress  bar -->
+    <div class="heading">
+        <div class="progress-container">
+            <div class="progress-bar" id="myBar"></div>
+        </div>
+    </div>
+
+
+
+
+    <!-- side  bar thing -->
+    <div class="sidebar">
+        <ul style="padding-left: 0px;margin-top: 0px;">
+            <li>
+                <a class="active" href="avocado.html">
+                    <span class="icon"><i class="fa fa-pie-chart"></i></span>
+                    <span class="title">Current</span>
+                </a>
+            </li>
+
+            <li>
+                <a href="index.html">
+                    <span class="icon"><i class="fa fa-book"></i></span>
+                    <span class="title">Home</span>
+                </a>
+            </li>
+
+            <li>
+                <a href="https://github.com/samedwardsjones">
+                    <span class="icon"><i class="fa fa-github"></i></span>
+                    <span class="title">Github</span>
+                </a>
+            </li>
+
+            <li>
+                <a href="index.html#contact">
+                    <span class="icon"><i class="fa fa-university"></i></span>
+                    <span class="title">Contact</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+
+    <div style="margin-left:150px;margin-right:5%;padding:10px 15px;height:2000px;">
+
+        <header>
+            <div class="titlebar">
+                <h1><b><span style="color:#FFD700">Apache iX</span><span style="color:rgb(255, 255, 255)">
+                            Internal</span><span style="color:rgb(255, 255, 255)"> Project</span></b></h1>
+                <h2><b><span style="color: rgb(0, 0, 0)">Sam Jones</h2>
+            </div>
+        </header>
+
+
+
+
+
+
+
+        <div class="main">
+            <h4>Avocado Toast or a 3 Bedroom House? <br> The Greatest Debate of 2024 (so far)</h4>
+            <div class="para">
+                <P>
+                    Ever wondered how a humble green fruit became <a
+                        href="https://www.fruitnet.com/eurofruit/why-have-avocados-become-so-popular/172578.article">the reigning champion of
+                        brunches,</a> the muse of countless Instagram feeds, and the subject of heated debates over guacamole recipes? Or questioned whether the deposit on your 2 bedroom basement flat could've been spent a little differently?
+                        Ok, maybe you haven't, but I know you're now thinking about it.
+                        
+                    <br><br>
+                    _____________
+
+                    <br>
+                    <br>
+                    Lets start simple. Its useful to gauge an understanding on
+                    the changes in house prices across the UK before we can begin to relate this to our beloved green friends. Using  <a href="https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/housepriceindex/latest">ONS Data</a>
+                    we can easily tell that there has been a steady increase in house prices. It's clear to see that as time progresses, the house price range widens and diverges from the regression line, indicating an increasing variability or dispersion of the data points over time.
+                    We call this <strong>heteroscedasticity.</strong> As time goes on, the variability of the data points (residuals) around the regression line increases, indicating heteroscedasticity. In 1968, the data is clustered, which is the complete opposite in 2021.By hovering over the data points, we can see which regions the data aligns to. More on this later...
+                   <br>
+                    <br>
+                    An R<sup>2</sup> value of of 0.66 means that approximately 66% of the variation in average house prices can be explained by the date variable in the regression model. In other words, this suggests that about 66% of the fluctuations or changes observed in average house prices over time can be attributed to the chronological progression of dates in the dataset. 
+                </p>
+            </div>
+
+            
+              
+
+            <div class="chart">
+                <div class="chart" id="Chart1"></div>
+            </div>
+
+            <h2>Now, lets understand the realm of Avocados</h2>
+
+            <div class="para">
+                <p>
+                    The top 10 populated US cities are matched with data from the non-profit organisation the
+                    <a href="https://www.gunviolencearchive.org/"> Gun Violence Archive</a>
+                    (GVA), which compiles data from law enforcement, media, and government sources from all 50 states,
+                    plotting fatal and non-fatal shootings from 2014-2022.
+
+                    <br><br>
+                    Despite <a href="https://en.wikipedia.org/wiki/Gun_laws_in_the_United_States_by_state">restrictive
+                        gun
+                        laws</a>,
+                    Chicago accounts for 57% of all non-fatal shootings out of the top 10 most populated cities, and
+                    9% of all cities and counties in the GVA dataset (2014-2022).
+                </p>
+            </div>
+
+            <div class="chart">
+                <div class="chart" id="Chart2"></div>
+            </div>
+
+
+            <h2>Mapping Gun Violence</h2>
+
+            <div class="para">
+                <p>
+                    Reported incidents of fatal and non-fatal shootings collected from the <a
+                        href="https://data.cityofchicago.org/"> Chicago Data Portal</a>
+                    are shown at neighbourhood
+                    levels on an interactive map. Austin, which is Chicago's largest neighbourhood, located far from
+                    the city centre,
+                    suffers from the most reported gun crimes out of all the neighbourhoods, accounting for 8% of all
+                    reported crimes in the 77 neighbourhoods between 2014-22.
+
+                </p>
+            </div>
+
+            <div class="chart">
+                <div class="chart" id="Chart25"></div>
+            </div>
+
+            <h2>Mapping income disparities</h2>
+
+            <div class="para">
+                <p>
+                    Austin has long suffered from severe disinvestment because of white flight, making it a hub of
+                    concentrated poverty, shown by its drastically different income distribution than to the City of
+                    Chicago. But can poverty be a predictor of gun violence? In the maps below, we can see that
+                    neighbourhoods with high gun crimes tend to have lower incomes, but the South-East of Chicago sees
+                    low median incomes with relatively low reported gun crimes.
+                    <br><br>
+                    Social mobility is also mapped, seeing if children who grew up with parents in the lowest 25th
+                    percentile of national income
+                    distribution can escape poverty. The results here fit the gun crime map more consistently. Climbing
+                    up the economic ladder is harder. The once since achievable American Dream is just a fantasy for
+                    many people in Chicago, and
+                    <a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002978">across
+                        America</a>. Structural inequalities, often rooted in racism, mean marginalised individuals are
+                    more likely to live in
+                    hyper segregated poor neighbourhoods with limited economic opportunity, fuelling gun violence.
+                </p>
+            </div>
+
+            <div grid-container style="display: grid;"></div>
+            <div grid-item="chart" id="Chart26"></div>
+            <div grid-item="chart" id="Chart27"></div>
+            <div grid-item="chart" id="Chart28"></div>
+
+
+            <h2>Other socioeconomic disparities</h2>
+
+            <div class="para">
+                <p>
+                    Socioeconomic disparities across Chicago are not limited to income. Educational attainment and
+                    children receiving food stamps is mapped below. Exposure to gun violence can detrimentally affect
+                    students' educational attainment, further reducing their economic opportunities, creating a cycle of
+                    violence for already suffering communities. High poverty concentration can have detrimental
+                    implications, increasing the<a
+                        href="http://jamanetwork.com/journals/jamapediatrics/article-abstract/2786452"> risk of youth
+                        firearm deaths</a>,
+                    and as tracts in Austin have over 50%
+                    of households with children under 18 receiving government Food Stamps, the neighbourhood is
+                    especially vulnerable to youth related gun violence.
+                </p>
+            </div>
+            <div class="chart">
+                <div class="chart" id="Chart29"></div>
+            </div>
+
+            <div class="para">
+                <h2>Data Challenges</h2>
+                <p>
+                    Due to the GVA's database query method, only 2000 rows of data could be collected at a time. A data
+                    analysist hand
+                    <a href="https://www.kaggle.com/datasets/jasonmobley/united-states-gun-violence-data-20142022">
+                        collected and cleaned
+                    </a>
+                    comprehensive data, and I collected and
+                    <a href="https://colab.research.google.com/drive/1gE2U97aB7KICST_TEVzQ-p0m81bMzc56?usp=sharing">
+                        hand
+                        cleaned</a> the rest.
+                    Data cleaning overcame the issue of city names not being the same in both data sets
+                    and aggregated daily statistics into annual data.
+                    <br> <br>
+                    I initially used <a href="https://www.census.gov/data/developers/data-sets.html">API keys</a>
+                    for the US census bureau data to <a
+                        href="https://colab.research.google.com/drive/1G_yu9nRhShIL_Dv6UgnNsI2rnJ1wrAru?usp=sharing">plot
+                        poverty rates</a>.
+                    However, the household median income dataset was easily accessible to be downloaded from the
+                    advanced database.
+                    <br> <br>
+                    As lower upward mobility <a
+                        href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002978"> is linked
+                        to gun violence</a>,
+                    the <a href="https://opportunityinsights.org/">Opportunity Insights</a>
+                    estimations of income by parental income is very useful.
+
+                    Census tracts in the North-East of Chicago have missing data for social mobility, which is a
+                    limitation.
+                    However, as this contains the richest neighbourhoods, with high educational attainment, and
+                    relatively low levels of gun violence, it is not the target of this research.
+
+                </p>
+            </div>
+            <div class="para">
+                <h2>Conclusions</h2>
+                <p>
+                    Patterns between high levels of gun violence and low social mobility can be seen geographically in
+                    Chicago.
+                    However, causality may not necessarily be taken, as socioeconomic measures and gun violence may be
+                    two-way causal. Nonetheless, the research here provides beneficial insight into the
+                    impacts and causes of gun violence, a pressing issue which deserves further exploration.
+                </p>
+                <p>
+                    <font size="-1">[794 words]</font>
+                </p>
+                <br>
+                <div id="game">
+                    <h1>Anagram Game</h1>
+                    <P>See if you can solve the anagram below, and guess the type of the acovado.</P>
+                    <div id="anagram"></div>
+                    <input type="text" id="guess" placeholder="Enter your guess">
+                    <button id="check">Check</button>
+                    <button id="refresh">Refresh</button>
+                    <div id="result"></div>
+                  </div>
+                  <br>
+
+            </div>
+
+
+
+        </div>
+
+
+        <!-- Refereces -->
+
+        <div class="footer">
+            <h2>References:</h2>
+            <p> Neighbourhood Boundary map and census tract map come from The City of Chicago's
+                <a href="https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-City/ewy2-6yfk">
+                    Chicago Data Portal</a>
+            </p>
+            <h3>Figure 1: Firearm Mortality Rates and Income </h3>
+            <p>Data is from the <a href="http://www.bea.gov/"> Bureau of Economic Analysis</a>
+                and the <a href="http://www.cdc.gov/">Centers for Disease Control and Prevention</a>.
+                For data cleaning, view this <a
+                    href="https://colab.research.google.com/drive/1TdS1jx_IalL7wglnx1AE16WcFU04dupY?usp=sharing">Colab
+                    page</a>.
+            </p>
+            <h3>Figure 2: Gun Injuries and Deaths in the US 10 most populated cities</h3>
+            <p> Data is from the <a href="http://www.gunviolencearchive.org/">Gun Violence Archive</a>,
+                with data from 2014 to June 2022 on one <a
+                    href="https://www.kaggle.com/datasets/jasonmobley/united-states-gun-violence-data-20142022">data
+                    set</a>,
+                and <a href="http://en.wikipedia.org/wiki/List_of_United_States_cities_by_population"> Wikipedia</a>.
+                For data cleaning, view this <a
+                    href="http://colab.research.google.com/drive/1gE2U97aB7KICST_TEVzQ-p0m81bMzc56?usp=sharing">Colab
+                    page</a>.
+            </p>
+            <h3>Figure 3: Reported Gun related crimes in Chicago</h3>
+            <p> Date is from The City of Chicago's
+                <a href="https://data.cityofchicago.org/"> Chicago Data Portal</a>
+                Data cleaning shown on <a
+                    href="http://colab.research.google.com/drive/1w2IutUqro6xptuK57sFVe0l4epLSHI3h?usp=sharing">Colab
+                    page</a>.
+            </p>
+            <h3>Figure 4: Median Household Income and Figure 7: Mapping socioeconomic disparities in Chicago</h3>
+            <p> Data is from <a href="http://data.census.gov/">United States Census Bureau</a>.
+                Data Cleaning on <a
+                    href="https://colab.research.google.com/drive/1RwTzB0uV2CK73aE4JsqoQRxwi9laJLfx?usp=sharing">Colab
+                    page</a>.
+            </p>
+            <h3>Figure 5: Where do children rise out of poverty?</h3>
+            <p>Data is from <a href="http://opportunityinsights.org/">Opportunity Insights</a>
+            </p>
+            <h3>Figure 6: Household Income Distribution</h3>
+            <p> Data is from <a href="http://www.cmap.illinois.gov/">Chicago Metro Agency of Planning</a> Community Data
+                Snapshot Chicago Community Area Series July 2022 Release.
+            </p>
+            
+        </div>
+    </div>
+
+
+    
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+<script>
+    //Define charts:
+    var myChart1 = "houseprices.json";
+    /* title 22, subtitle 15, subtitle padding 8, stroke #FFA057*/
+    var myChart2 = "worldimport.json";
+    var myChart25 = "charts/P_ReportedGunCrimesMap.json";
+    var myChart26 = "charts/HH_income_map.json";
+    var myChart27 = "charts/mean35.json";
+    var myChart28 = "charts/austin_barchart.json";
+    var myChart29 = "charts/socioeconomic_maps.json";
+
+
+    // Embed charts:
+    vegaEmbed('#Chart1', myChart1);
+    vegaEmbed('#Chart2', myChart2);
+    vegaEmbed('#Chart25', myChart25);
+    vegaEmbed('#Chart26', myChart26);
+    vegaEmbed('#Chart27', myChart27);
+    vegaEmbed('#Chart28', myChart28);
+    vegaEmbed('#Chart29', myChart29);
+</script>
+
+<script>
+
+    // When the user scrolls the page, execute myFunction 
+    window.onscroll = function () { myFunction() };
+
+    function myFunction() {
+        var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+        var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+        var scrolled = (winScroll / height) * 100;
+        document.getElementById("myBar").style.width = scrolled + "%";
+    }
+
+</script>
+
+<script>
+
+// List of words for anagrams
+const words = ["choquette", "lula", "hass", "reed", "pinkerton", "gwen", "maluma", "ettinger", "sharwil", "zutano"];
+
+// Function to shuffle letters in a word
+function shuffle(word) {
+  return word.split('').sort(() => Math.random() - 0.5).join('');
+}
+
+// Function to generate random anagram
+function generateAnagram() {
+  const randomWord = words[Math.floor(Math.random() * words.length)];
+  return shuffle(randomWord);
+}
+
+// Display anagram
+function displayAnagram() {
+  const anagram = generateAnagram();
+  document.getElementById('anagram').textContent = anagram;
+}
+
+// Check answer
+function checkAnswer() {
+  const guess = document.getElementById('guess').value.toLowerCase();
+  
+  if (words.includes(guess)) {
+    document.getElementById('result').textContent = 'Correct!';
+  } else {
+    document.getElementById('result').textContent = 'Incorrect. Try again!';
+  }
+}
+
+
+
+// Refresh button functionality
+document.getElementById('refresh').addEventListener('click', () => {
+  displayAnagram();
+  document.getElementById('result').textContent = '';
+  document.getElementById('guess').value = '';
+});
+
+// Event listener for check button
+document.getElementById('check').addEventListener('click', checkAnswer);
+
+// Initialize game
+displayAnagram();
+
+
+
+</script>
+
+</html>
