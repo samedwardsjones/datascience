@@ -1,0 +1,505 @@
+,Region,Average Home Price,Year
+3,United Kingdom,36000,1986
+4,United Kingdom,40000,1987
+5,United Kingdom,49000,1988
+6,United Kingdom,55000,1989
+7,United Kingdom,60000,1990
+8,United Kingdom,62000,1991
+9,United Kingdom,61000,1992
+10,United Kingdom,62000,1993
+11,United Kingdom,65000,1994
+12,United Kingdom,66000,1995
+13,United Kingdom,71000,1996
+14,United Kingdom,76000,1997
+15,United Kingdom,82000,1998
+16,United Kingdom,93000,1999
+17,United Kingdom,102000,2000
+18,United Kingdom,113000,2001
+19,United Kingdom,128000,2002
+20,United Kingdom,156000,2003
+21,United Kingdom,180000,2004
+22,United Kingdom,191000,2005
+23,United Kingdom,205000,2006
+24,United Kingdom,223000,2007
+25,United Kingdom,228000,2008
+26,United Kingdom,226000,2009
+27,United Kingdom,251000,2010
+28,United Kingdom,245000,2011
+29,United Kingdom,246000,2012
+30,United Kingdom,251000,2013
+31,United Kingdom,267000,2014
+32,United Kingdom,277000,2015
+33,United Kingdom,283000,2016
+34,United Kingdom,280000,2017
+35,United Kingdom,283000,2018
+36,United Kingdom,282000,2019
+37,United Kingdom,303000,2020
+38,United Kingdom,324000,2021
+42,England,38000,1986
+43,England,42000,1987
+44,England,52000,1988
+45,England,58000,1989
+46,England,63000,1990
+47,England,65000,1991
+48,England,64000,1992
+49,England,65000,1993
+50,England,68000,1994
+51,England,68000,1995
+52,England,72000,1996
+53,England,79000,1997
+54,England,85000,1998
+55,England,96000,1999
+56,England,107000,2000
+57,England,120000,2001
+58,England,137000,2002
+59,England,167000,2003
+60,England,192000,2004
+61,England,202000,2005
+62,England,214000,2006
+63,England,232000,2007
+64,England,237000,2008
+65,England,234000,2009
+66,England,261000,2010
+67,England,256000,2011
+68,England,256000,2012
+69,England,261000,2013
+70,England,278000,2014
+71,England,291000,2015
+72,England,298000,2016
+73,England,298000,2017
+74,England,300000,2018
+75,England,300000,2019
+76,England,321000,2020
+77,England,342000,2021
+81,North East,24000,1986
+82,North East,27000,1987
+83,North East,30000,1988
+84,North East,36000,1989
+85,North East,41000,1990
+86,North East,45000,1991
+87,North East,47000,1992
+88,North East,49000,1993
+89,North East,49000,1994
+90,North East,47000,1995
+91,North East,51000,1996
+92,North East,53000,1997
+93,North East,56000,1998
+94,North East,62000,1999
+95,North East,64000,2000
+96,North East,70000,2001
+97,North East,79000,2002
+98,North East,100000,2003
+99,North East,127000,2004
+100,North East,135000,2005
+101,North East,141000,2006
+102,North East,152000,2007
+103,North East,159000,2008
+104,North East,157000,2009
+105,North East,162000,2010
+106,North East,153000,2011
+107,North East,153000,2012
+108,North East,154000,2013
+109,North East,162000,2014
+110,North East,168000,2015
+111,North East,169000,2016
+112,North East,168000,2017
+113,North East,169000,2018
+114,North East,171000,2019
+115,North East,180000,2020
+116,North East,192000,2021
+120,North West,28000,1986
+121,North West,30000,1987
+122,North West,34000,1988
+123,North West,42000,1989
+124,North West,50000,1990
+125,North West,53000,1991
+126,North West,56000,1992
+127,North West,56000,1993
+128,North West,57000,1994
+129,North West,56000,1995
+130,North West,58000,1996
+131,North West,63000,1997
+132,North West,66000,1998
+133,North West,72000,1999
+134,North West,78000,2000
+135,North West,82000,2001
+136,North West,92000,2002
+137,North West,115000,2003
+138,North West,139000,2004
+139,North West,149000,2005
+140,North West,158000,2006
+141,North West,170000,2007
+142,North West,175000,2008
+143,North West,174000,2009
+144,North West,183000,2010
+145,North West,175000,2011
+146,North West,174000,2012
+147,North West,175000,2013
+148,North West,184000,2014
+149,North West,192000,2015
+150,North West,197000,2016
+151,North West,198000,2017
+152,North West,202000,2018
+153,North West,205000,2019
+154,North West,217000,2020
+155,North West,237000,2021
+159,Yorkshire and The Humber,26000,1986
+160,Yorkshire and The Humber,28000,1987
+161,Yorkshire and The Humber,33000,1988
+162,Yorkshire and The Humber,42000,1989
+163,Yorkshire and The Humber,47000,1990
+164,Yorkshire and The Humber,52000,1991
+165,Yorkshire and The Humber,52000,1992
+166,Yorkshire and The Humber,55000,1993
+167,Yorkshire and The Humber,54000,1994
+168,Yorkshire and The Humber,54000,1995
+169,Yorkshire and The Humber,56000,1996
+170,Yorkshire and The Humber,60000,1997
+171,Yorkshire and The Humber,62000,1998
+172,Yorkshire and The Humber,67000,1999
+173,Yorkshire and The Humber,72000,2000
+174,Yorkshire and The Humber,76000,2001
+175,Yorkshire and The Humber,88000,2002
+176,Yorkshire and The Humber,114000,2003
+177,Yorkshire and The Humber,137000,2004
+178,Yorkshire and The Humber,148000,2005
+179,Yorkshire and The Humber,158000,2006
+180,Yorkshire and The Humber,170000,2007
+181,Yorkshire and The Humber,173000,2008
+182,Yorkshire and The Humber,176000,2009
+183,Yorkshire and The Humber,182000,2010
+184,Yorkshire and The Humber,171000,2011
+185,Yorkshire and The Humber,171000,2012
+186,Yorkshire and The Humber,172000,2013
+187,Yorkshire and The Humber,182000,2014
+188,Yorkshire and The Humber,188000,2015
+189,Yorkshire and The Humber,192000,2016
+190,Yorkshire and The Humber,192000,2017
+191,Yorkshire and The Humber,196000,2018
+192,Yorkshire and The Humber,199000,2019
+193,Yorkshire and The Humber,210000,2020
+194,Yorkshire and The Humber,228000,2021
+198,East Midlands,28000,1986
+199,East Midlands,32000,1987
+200,East Midlands,41000,1988
+201,East Midlands,49000,1989
+202,East Midlands,53000,1990
+203,East Midlands,56000,1991
+204,East Midlands,55000,1992
+205,East Midlands,54000,1993
+206,East Midlands,55000,1994
+207,East Midlands,55000,1995
+208,East Midlands,59000,1996
+209,East Midlands,62000,1997
+210,East Midlands,66000,1998
+211,East Midlands,72000,1999
+212,East Midlands,79000,2000
+213,East Midlands,87000,2001
+214,East Midlands,105000,2002
+215,East Midlands,132000,2003
+216,East Midlands,154000,2004
+217,East Midlands,161000,2005
+218,East Midlands,164000,2006
+219,East Midlands,176000,2007
+220,East Midlands,177000,2008
+221,East Midlands,172000,2009
+222,East Midlands,185000,2010
+223,East Midlands,179000,2011
+224,East Midlands,177000,2012
+225,East Midlands,178000,2013
+226,East Midlands,188000,2014
+227,East Midlands,199000,2015
+228,East Midlands,207000,2016
+229,East Midlands,213000,2017
+230,East Midlands,222000,2018
+231,East Midlands,224000,2019
+232,East Midlands,236000,2020
+233,East Midlands,258000,2021
+237,West Midlands,28000,1986
+238,West Midlands,33000,1987
+239,West Midlands,42000,1988
+240,West Midlands,50000,1989
+241,West Midlands,55000,1990
+242,West Midlands,59000,1991
+243,West Midlands,58000,1992
+244,West Midlands,59000,1993
+245,West Midlands,59000,1994
+246,West Midlands,62000,1995
+247,West Midlands,64000,1996
+248,West Midlands,68000,1997
+249,West Midlands,72000,1998
+250,West Midlands,80000,1999
+251,West Midlands,88000,2000
+252,West Midlands,98000,2001
+253,West Midlands,112000,2002
+254,West Midlands,137000,2003
+255,West Midlands,162000,2004
+256,West Midlands,169000,2005
+257,West Midlands,177000,2006
+258,West Midlands,185000,2007
+259,West Midlands,185000,2008
+260,West Midlands,185000,2009
+261,West Midlands,201000,2010
+262,West Midlands,189000,2011
+263,West Midlands,188000,2012
+264,West Midlands,191000,2013
+265,West Midlands,202000,2014
+266,West Midlands,211000,2015
+267,West Midlands,219000,2016
+268,West Midlands,223000,2017
+269,West Midlands,231000,2018
+270,West Midlands,232000,2019
+271,West Midlands,247000,2020
+272,West Midlands,266000,2021
+276,East of England,43000,1986
+277,East of England,52000,1987
+278,East of England,66000,1988
+279,East of England,74000,1989
+280,East of England,72000,1990
+281,East of England,70000,1991
+282,East of England,65000,1992
+283,East of England,67000,1993
+284,East of England,69000,1994
+285,East of England,70000,1995
+286,East of England,73000,1996
+287,East of England,81000,1997
+288,East of England,89000,1998
+289,East of England,97000,1999
+290,East of England,112000,2000
+291,East of England,128000,2001
+292,East of England,151000,2002
+293,East of England,183000,2003
+294,East of England,203000,2004
+295,East of England,212000,2005
+296,East of England,221000,2006
+297,East of England,238000,2007
+298,East of England,244000,2008
+299,East of England,233000,2009
+300,East of England,261000,2010
+301,East of England,256000,2011
+302,East of England,255000,2012
+303,East of England,258000,2013
+304,East of England,280000,2014
+305,East of England,306000,2015
+306,East of England,326000,2016
+307,East of England,335000,2017
+308,East of England,338000,2018
+309,East of England,339000,2019
+310,East of England,356000,2020
+311,East of England,378000,2021
+315,London,55000,1986
+316,London,66000,1987
+317,London,78000,1988
+318,London,82000,1989
+319,London,84000,1990
+320,London,86000,1991
+321,London,78000,1992
+322,London,81000,1993
+323,London,88000,1994
+324,London,90000,1995
+325,London,94000,1996
+326,London,106000,1997
+327,London,115000,1998
+328,London,142000,1999
+329,London,164000,2000
+330,London,182000,2001
+331,London,207000,2002
+332,London,242000,2003
+333,London,273000,2004
+334,London,283000,2005
+335,London,306000,2006
+336,London,342000,2007
+337,London,351000,2008
+338,London,338000,2009
+339,London,385000,2010
+340,London,401000,2011
+341,London,410000,2012
+342,London,428000,2013
+343,London,470000,2014
+344,London,514000,2015
+345,London,534000,2016
+346,London,536000,2017
+347,London,538000,2018
+348,London,538000,2019
+349,London,575000,2020
+350,London,603000,2021
+354,South East,49000,1986
+355,South East,58000,1987
+356,South East,73000,1988
+357,South East,83000,1989
+358,South East,82000,1990
+359,South East,81000,1991
+360,South East,77000,1992
+361,South East,77000,1993
+362,South East,83000,1994
+363,South East,83000,1995
+364,South East,88000,1996
+365,South East,95000,1997
+366,South East,106000,1998
+367,South East,122000,1999
+368,South East,143000,2000
+369,South East,157000,2001
+370,South East,180000,2002
+371,South East,215000,2003
+372,South East,237000,2004
+373,South East,244000,2005
+374,South East,257000,2006
+375,South East,278000,2007
+376,South East,285000,2008
+377,South East,274000,2009
+378,South East,309000,2010
+379,South East,301000,2011
+380,South East,303000,2012
+381,South East,305000,2013
+382,South East,330000,2014
+383,South East,356000,2015
+384,South East,375000,2016
+385,South East,379000,2017
+386,South East,382000,2018
+387,South East,381000,2019
+388,South East,404000,2020
+389,South East,426000,2021
+393,South West,39000,1986
+394,South West,45000,1987
+395,South West,58000,1988
+396,South West,67000,1989
+397,South West,65000,1990
+398,South West,65000,1991
+399,South West,62000,1992
+400,South West,61000,1993
+401,South West,65000,1994
+402,South West,65000,1995
+403,South West,68000,1996
+404,South West,73000,1997
+405,South West,80000,1998
+406,South West,89000,1999
+407,South West,104000,2000
+408,South West,119000,2001
+409,South West,142000,2002
+410,South West,174000,2003
+411,South West,198000,2004
+412,South West,205000,2005
+413,South West,214000,2006
+414,South West,231000,2007
+415,South West,230000,2008
+416,South West,220000,2009
+417,South West,240000,2010
+418,South West,232000,2011
+419,South West,232000,2012
+420,South West,230000,2013
+421,South West,244000,2014
+422,South West,259000,2015
+423,South West,270000,2016
+424,South West,277000,2017
+425,South West,283000,2018
+426,South West,285000,2019
+427,South West,304000,2020
+428,South West,326000,2021
+432,Wales,27000,1986
+433,Wales,30000,1987
+434,Wales,34000,1988
+435,Wales,43000,1989
+436,Wales,46000,1990
+437,Wales,49000,1991
+438,Wales,50000,1992
+439,Wales,52000,1993
+440,Wales,53000,1994
+441,Wales,53000,1995
+442,Wales,55000,1996
+443,Wales,58000,1997
+444,Wales,61000,1998
+445,Wales,67000,1999
+446,Wales,72000,2000
+447,Wales,80000,2001
+448,Wales,88000,2002
+449,Wales,110000,2003
+450,Wales,138000,2004
+451,Wales,150000,2005
+452,Wales,157000,2006
+453,Wales,170000,2007
+454,Wales,170000,2008
+455,Wales,166000,2009
+456,Wales,172000,2010
+457,Wales,165000,2011
+458,Wales,165000,2012
+459,Wales,169000,2013
+460,Wales,178000,2014
+461,Wales,178000,2015
+462,Wales,182000,2016
+463,Wales,184000,2017
+464,Wales,188000,2018
+465,Wales,190000,2019
+466,Wales,201000,2020
+467,Wales,225000,2021
+471,Scotland,28000,1986
+472,Scotland,30000,1987
+473,Scotland,31000,1988
+474,Scotland,35000,1989
+475,Scotland,42000,1990
+476,Scotland,49000,1991
+477,Scotland,50000,1992
+478,Scotland,50000,1993
+479,Scotland,51000,1994
+480,Scotland,53000,1995
+481,Scotland,57000,1996
+482,Scotland,58000,1997
+483,Scotland,64000,1998
+484,Scotland,69000,1999
+485,Scotland,70000,2000
+486,Scotland,74000,2001
+487,Scotland,78000,2002
+488,Scotland,104000,2003
+489,Scotland,119000,2004
+490,Scotland,130000,2005
+491,Scotland,137000,2006
+492,Scotland,159000,2007
+493,Scotland,169000,2008
+494,Scotland,174000,2009
+495,Scotland,185000,2010
+496,Scotland,180000,2011
+497,Scotland,180000,2012
+498,Scotland,181000,2013
+499,Scotland,191000,2014
+500,Scotland,193000,2015
+501,Scotland,187000,2016
+502,Scotland,185000,2017
+503,Scotland,190000,2018
+504,Scotland,193000,2019
+505,Scotland,202000,2020
+506,Scotland,218000,2021
+510,Northern Ireland,26000,1986
+511,Northern Ireland,28000,1987
+512,Northern Ireland,30000,1988
+513,Northern Ireland,30000,1989
+514,Northern Ireland,32000,1990
+515,Northern Ireland,35000,1991
+516,Northern Ireland,38000,1992
+517,Northern Ireland,39000,1993
+518,Northern Ireland,39000,1994
+519,Northern Ireland,43000,1995
+520,Northern Ireland,48000,1996
+521,Northern Ireland,53000,1997
+522,Northern Ireland,59000,1998
+523,Northern Ireland,66000,1999
+524,Northern Ireland,73000,2000
+525,Northern Ireland,80000,2001
+526,Northern Ireland,84000,2002
+527,Northern Ireland,95000,2003
+528,Northern Ireland,110000,2004
+529,Northern Ireland,129000,2005
+530,Northern Ireland,169000,2006
+531,Northern Ireland,230000,2007
+532,Northern Ireland,218000,2008
+533,Northern Ireland,185000,2009
+534,Northern Ireland,168000,2010
+535,Northern Ireland,141000,2011
+536,Northern Ireland,131000,2012
+537,Northern Ireland,136000,2013
+538,Northern Ireland,144000,2014
+539,Northern Ireland,152000,2015
+540,Northern Ireland,152000,2016
+541,Northern Ireland,154000,2017
+542,Northern Ireland,158000,2018
+543,Northern Ireland,160000,2019
+544,Northern Ireland,172000,2020
+545,Northern Ireland,182000,2021
