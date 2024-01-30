@@ -1,0 +1,84 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "#7DAB48",
+  "width": 500,
+  "height": 400,
+  "title": {
+    "text": "Median House Prices in Bristol Wards",
+    "color": "white",
+    "subtitle": "1995-2017 Data, Source: ONS",
+    "fontSize": 15,
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 11,
+    "anchor": "middle"
+  },
+  "params": [
+    {
+      "name": "Year",
+      "value": 2017,
+      "bind": {
+        "input": "range",
+        "min": 1995,
+        "max": 2017,
+        "step": 1,
+        "name": "Year Selector:"
+      }
+    }
+  ],
+  "data": {
+    "url": "https://raw.githubusercontent.com/samedwardsjones/datascience/main/updated_houseprices.csv",
+    "format": {"type": "csv"}
+  },
+  "transform": [
+    {"filter": "datum.Year==Year"},
+    {
+      "lookup": "Ward",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/martinjc/UK-GeoJSON/master/json/electoral/eng/wards_by_lad/E06000023.json",
+          "format": {"property": "features"}
+        },
+        "key": "properties.WD13NM",
+        "fields": ["properties", "type", "geometry"]
+      }
+    }
+  ],
+  "projection": {"type": "identity", "reflectY": true},
+  "layer": [
+    {
+      "mark": {"type": "geoshape", "stroke": "black", "strokeWidth": 0.7},
+      "encoding": {
+        "color": {
+          "field": "Value",
+          "legend": {
+            "title": "Property Value",
+            "orient": "top-right",
+            "direction": "horizontal",
+            "labelAlign": "left"
+          },
+          "type": "quantitative",
+          "scale": {"scheme": "lightmulti"}
+        },
+        "tooltip": [
+          {"field": "properties.WD13NM", "title": "Ward"},
+          {"field": "Value", "title": "Average House Price"}
+        ]
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {"name": "University of Bristol", "coordinates": [-2.6, 51.46]},
+          {"name": "Student Living Area", "coordinates": [-2.61, 51.46]}
+        ]
+      },
+      "mark": {"type": "circle", "color": "red", "size": 150},
+      "encoding": {
+        "longitude": {"field": "coordinates[0]", "type": "quantitative"},
+        "latitude": {"field": "coordinates[1]", "type": "quantitative"},
+        "tooltip": [{"field": "name", "title": "Landmark"}]
+      }
+    }
+  ],
+  "config": {}
+}
