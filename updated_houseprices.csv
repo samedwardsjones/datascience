@@ -1,0 +1,783 @@
+Ward,Year,Value
+Ashley,1995,46250
+Ashley,1996,47625
+Ashley,1997,53600
+Ashley,1998,55156.25
+Ashley,1999,63362.5
+Ashley,2000,79616.875
+Ashley,2001,88737.5
+Ashley,2002,116375
+Ashley,2003,137087.5
+Ashley,2004,144536.875
+Ashley,2005,154500
+Ashley,2006,172962.5
+Ashley,2007,194625
+Ashley,2008,189437.5
+Ashley,2009,177437.5
+Ashley,2010,169997.5
+Ashley,2011,177498.75
+Ashley,2012,189375
+Ashley,2013,204503.75
+Ashley,2014,209000
+Ashley,2015,232500
+Ashley,2016,266531.25
+Ashley,2017,285000
+Avonmouth,1995,43500
+Avonmouth,1996,43125
+Avonmouth,1997,47687.5
+Avonmouth,1998,52250
+Avonmouth,1999,55273.125
+Avonmouth,2000,58174.375
+Avonmouth,2001,69618.75
+Avonmouth,2002,81350
+Avonmouth,2003,94987.5
+Avonmouth,2004,117300
+Avonmouth,2005,125125
+Avonmouth,2006,133775
+Avonmouth,2007,143375
+Avonmouth,2008,150000
+Avonmouth,2009,134250
+Avonmouth,2010,142125
+Avonmouth,2011,143187.5
+Avonmouth,2012,133937.5
+Avonmouth,2013,137875
+Avonmouth,2014,155112.5
+Avonmouth,2015,173362.5
+Avonmouth,2016,193750
+Avonmouth,2017,206000
+Bedminster,1995,40250
+Bedminster,1996,39862.5
+Bedminster,1997,42168.75
+Bedminster,1998,47206.25
+Bedminster,1999,54531.25
+Bedminster,2000,67875
+Bedminster,2001,79123.75
+Bedminster,2002,95750
+Bedminster,2003,124431.25
+Bedminster,2004,140332.5
+Bedminster,2005,150600
+Bedminster,2006,159300
+Bedminster,2007,173862.5
+Bedminster,2008,176500
+Bedminster,2009,157375
+Bedminster,2010,176250
+Bedminster,2011,171186.875
+Bedminster,2012,173125
+Bedminster,2013,180250
+Bedminster,2014,200143.75
+Bedminster,2015,220499.75
+Bedminster,2016,247787.5
+Bedminster,2017,280000
+Bishopston,1995,57450
+Bishopston,1996,58112.5
+Bishopston,1997,63250
+Bishopston,1998,73448.75
+Bishopston,1999,85266.75
+Bishopston,2000,107811.875
+Bishopston,2001,118500
+Bishopston,2002,136612.5
+Bishopston,2003,170306.25
+Bishopston,2004,186062.5
+Bishopston,2005,197125
+Bishopston,2006,207536.875
+Bishopston,2007,232250
+Bishopston,2008,225500
+Bishopston,2009,203000
+Bishopston,2010,223175
+Bishopston,2011,228437.5
+Bishopston,2012,230737.5
+Bishopston,2013,243837.5
+Bishopston,2014,257493.75
+Bishopston,2015,294187.5
+Bishopston,2016,337125
+Bishopston,2017,366000
+Bishopsworth,1995,48750
+Bishopsworth,1996,47437.5
+Bishopsworth,1997,48300
+Bishopsworth,1998,54835
+Bishopsworth,1999,60870.625
+Bishopsworth,2000,72493.75
+Bishopsworth,2001,81800
+Bishopsworth,2002,95562.5
+Bishopsworth,2003,122125
+Bishopsworth,2004,134937.5
+Bishopsworth,2005,144750
+Bishopsworth,2006,147648.75
+Bishopsworth,2007,161500
+Bishopsworth,2008,161875
+Bishopsworth,2009,149125
+Bishopsworth,2010,157812.5
+Bishopsworth,2011,161068.75
+Bishopsworth,2012,148062.5
+Bishopsworth,2013,152375
+Bishopsworth,2014,170500
+Bishopsworth,2015,185811.25
+Bishopsworth,2016,211833.25
+Bishopsworth,2017,225150
+Brislington East,1995,43775
+Brislington East,1996,45625
+Brislington East,1997,47968.125
+Brislington East,1998,48812.5
+Brislington East,1999,52993.125
+Brislington East,2000,61987.5
+Brislington East,2001,72000
+Brislington East,2002,85862.5
+Brislington East,2003,113187.5
+Brislington East,2004,121681.25
+Brislington East,2005,130048.75
+Brislington East,2006,137875
+Brislington East,2007,151906.25
+Brislington East,2008,155850
+Brislington East,2009,138437.5
+Brislington East,2010,144562.5
+Brislington East,2011,149562.5
+Brislington East,2012,147061.875
+Brislington East,2013,143625
+Brislington East,2014,160987.5
+Brislington East,2015,171487.5
+Brislington East,2016,201437.5
+Brislington East,2017,220750
+Brislington West,1995,43000
+Brislington West,1996,42250
+Brislington West,1997,45018.75
+Brislington West,1998,47125
+Brislington West,1999,55987.5
+Brislington West,2000,68373.75
+Brislington West,2001,76531.25
+Brislington West,2002,92931.25
+Brislington West,2003,117375
+Brislington West,2004,131902.5
+Brislington West,2005,144748.75
+Brislington West,2006,148968.75
+Brislington West,2007,164937.5
+Brislington West,2008,171125
+Brislington West,2009,147750
+Brislington West,2010,157021.5
+Brislington West,2011,158635.75
+Brislington West,2012,159625
+Brislington West,2013,170562.5
+Brislington West,2014,180868.75
+Brislington West,2015,210875
+Brislington West,2016,250243.75
+Brislington West,2017,268000
+Cabot,1995,48950
+Cabot,1996,48337.5
+Cabot,1997,53725
+Cabot,1998,60375
+Cabot,1999,67987.5
+Cabot,2000,95312.5
+Cabot,2001,130750
+Cabot,2002,148687.5
+Cabot,2003,172750
+Cabot,2004,165937.5
+Cabot,2005,168371.5
+Cabot,2006,172368.75
+Cabot,2007,183050
+Cabot,2008,193118.75
+Cabot,2009,175000
+Cabot,2010,167937.5
+Cabot,2011,177642.75
+Cabot,2012,187362
+Cabot,2013,162618.75
+Cabot,2014,182625
+Cabot,2015,204625
+Cabot,2016,254325
+Cabot,2017,257300
+Clifton,1995,70000
+Clifton,1996,70125
+Clifton,1997,77243.75
+Clifton,1998,87812.5
+Clifton,1999,101687.5
+Clifton,2000,129675
+Clifton,2001,146118.75
+Clifton,2002,172112.5
+Clifton,2003,195562.5
+Clifton,2004,209375
+Clifton,2005,222311.25
+Clifton,2006,224031.25
+Clifton,2007,242875
+Clifton,2008,257750
+Clifton,2009,245375
+Clifton,2010,249500
+Clifton,2011,272875
+Clifton,2012,275875
+Clifton,2013,280125
+Clifton,2014,286250
+Clifton,2015,317000
+Clifton,2016,365675
+Clifton,2017,415000
+Clifton East,1995,67000
+Clifton East,1996,69000
+Clifton East,1997,70962.5
+Clifton East,1998,80800
+Clifton East,1999,101562.5
+Clifton East,2000,120656.25
+Clifton East,2001,135031.25
+Clifton East,2002,157750
+Clifton East,2003,192025
+Clifton East,2004,214125
+Clifton East,2005,220918.75
+Clifton East,2006,221662.5
+Clifton East,2007,243250
+Clifton East,2008,241368.75
+Clifton East,2009,242499.75
+Clifton East,2010,248737.25
+Clifton East,2011,250000
+Clifton East,2012,246187.5
+Clifton East,2013,250000
+Clifton East,2014,269617.5
+Clifton East,2015,297812.5
+Clifton East,2016,341312.5
+Clifton East,2017,361775
+Cotham,1995,65000
+Cotham,1996,68668.75
+Cotham,1997,66625
+Cotham,1998,75962.5
+Cotham,1999,87750
+Cotham,2000,112612.5
+Cotham,2001,126687.5
+Cotham,2002,150003.25
+Cotham,2003,171306.25
+Cotham,2004,181000
+Cotham,2005,190062.5
+Cotham,2006,205312.5
+Cotham,2007,226750
+Cotham,2008,247125
+Cotham,2009,215925
+Cotham,2010,212625
+Cotham,2011,242500
+Cotham,2012,239743.75
+Cotham,2013,237750
+Cotham,2014,256383
+Cotham,2015,265000
+Cotham,2016,302631.25
+Cotham,2017,310000
+Easton,1995,32100
+Easton,1996,30312.5
+Easton,1997,33875
+Easton,1998,36125
+Easton,1999,42498.75
+Easton,2000,51937.5
+Easton,2001,62523.75
+Easton,2002,76246.25
+Easton,2003,97000
+Easton,2004,109687.5
+Easton,2005,119500
+Easton,2006,126250
+Easton,2007,144625
+Easton,2008,151425
+Easton,2009,129422
+Easton,2010,131062.5
+Easton,2011,132500
+Easton,2012,136812.5
+Easton,2013,142331.25
+Easton,2014,156062.5
+Easton,2015,188430
+Easton,2016,227937.5
+Easton,2017,247000
+Eastville,1995,40000
+Eastville,1996,40868.75
+Eastville,1997,45375
+Eastville,1998,50406.25
+Eastville,1999,54793.75
+Eastville,2000,60748.75
+Eastville,2001,75306.25
+Eastville,2002,89618.75
+Eastville,2003,115125
+Eastville,2004,126181.25
+Eastville,2005,132811.25
+Eastville,2006,138810.625
+Eastville,2007,153868.75
+Eastville,2008,156312.5
+Eastville,2009,141250
+Eastville,2010,146250
+Eastville,2011,144750
+Eastville,2012,148437.5
+Eastville,2013,150750
+Eastville,2014,166875
+Eastville,2015,180500
+Eastville,2016,199636.25
+Eastville,2017,228500
+Filwood,1995,29000
+Filwood,1996,31437.5
+Filwood,1997,31367.5
+Filwood,1998,35069.375
+Filwood,1999,38987.5
+Filwood,2000,45500
+Filwood,2001,50562.5
+Filwood,2002,62111.875
+Filwood,2003,80125
+Filwood,2004,90937.5
+Filwood,2005,103874.375
+Filwood,2006,111945
+Filwood,2007,126625
+Filwood,2008,134238.5
+Filwood,2009,114812.5
+Filwood,2010,111125
+Filwood,2011,115562.5
+Filwood,2012,118437.5
+Filwood,2013,123125
+Filwood,2014,136000
+Filwood,2015,148625
+Filwood,2016,171000
+Filwood,2017,185000
+Frome Vale,1995,46500
+Frome Vale,1996,47750
+Frome Vale,1997,55593.75
+Frome Vale,1998,60874.375
+Frome Vale,1999,66375
+Frome Vale,2000,75862.5
+Frome Vale,2001,84093.75
+Frome Vale,2002,103500
+Frome Vale,2003,126993.75
+Frome Vale,2004,145512.5
+Frome Vale,2005,157125
+Frome Vale,2006,161106.25
+Frome Vale,2007,173500
+Frome Vale,2008,173556.25
+Frome Vale,2009,154875
+Frome Vale,2010,165124.25
+Frome Vale,2011,163750
+Frome Vale,2012,162000
+Frome Vale,2013,159375
+Frome Vale,2014,178750
+Frome Vale,2015,194250
+Frome Vale,2016,215750
+Frome Vale,2017,220000
+Hartcliffe,1995,40000
+Hartcliffe,1996,36562.5
+Hartcliffe,1997,36987.5
+Hartcliffe,1998,41500
+Hartcliffe,1999,43925
+Hartcliffe,2000,48750
+Hartcliffe,2001,56246.875
+Hartcliffe,2002,65811.25
+Hartcliffe,2003,80187.5
+Hartcliffe,2004,93750
+Hartcliffe,2005,110186.875
+Hartcliffe,2006,115875
+Hartcliffe,2007,125111.25
+Hartcliffe,2008,132931.25
+Hartcliffe,2009,114000
+Hartcliffe,2010,113375
+Hartcliffe,2011,117125
+Hartcliffe,2012,120250
+Hartcliffe,2013,120250
+Hartcliffe,2014,129437.5
+Hartcliffe,2015,142248.75
+Hartcliffe,2016,167187.5
+Hartcliffe,2017,180000
+Henbury,1995,45500
+Henbury,1996,45518.75
+Henbury,1997,48500
+Henbury,1998,52875
+Henbury,1999,57156.25
+Henbury,2000,65843.75
+Henbury,2001,73661.25
+Henbury,2002,96493.75
+Henbury,2003,127487.5
+Henbury,2004,132906.25
+Henbury,2005,143562.5
+Henbury,2006,147875
+Henbury,2007,156000
+Henbury,2008,162500
+Henbury,2009,143011.25
+Henbury,2010,140561.25
+Henbury,2011,149343.75
+Henbury,2012,142937.5
+Henbury,2013,151062.5
+Henbury,2014,163531.25
+Henbury,2015,171500
+Henbury,2016,206925
+Henbury,2017,215000
+Hengrove,1995,46500
+Hengrove,1996,47373.75
+Hengrove,1997,50862.5
+Hengrove,1998,53500
+Hengrove,1999,56993.125
+Hengrove,2000,67312.5
+Hengrove,2001,76873.75
+Hengrove,2002,88686.875
+Hengrove,2003,110362.5
+Hengrove,2004,126937.5
+Hengrove,2005,132487.5
+Hengrove,2006,139856.25
+Hengrove,2007,150875
+Hengrove,2008,159717.5
+Hengrove,2009,143937.5
+Hengrove,2010,146500
+Hengrove,2011,147125
+Hengrove,2012,149750
+Hengrove,2013,155343.75
+Hengrove,2014,163686.875
+Hengrove,2015,180623.75
+Hengrove,2016,203312.5
+Hengrove,2017,220000
+Whitchurch Park,1995,46500
+Whitchurch Park,1996,47373.75
+Whitchurch Park,1997,50862.5
+Whitchurch Park,1998,53500
+Whitchurch Park,1999,56993.125
+Whitchurch Park,2000,67312.5
+Whitchurch Park,2001,76873.75
+Whitchurch Park,2002,88686.875
+Whitchurch Park,2003,110362.5
+Whitchurch Park,2004,126937.5
+Whitchurch Park,2005,132487.5
+Whitchurch Park,2006,139856.25
+Whitchurch Park,2007,150875
+Whitchurch Park,2008,159717.5
+Whitchurch Park,2009,143937.5
+Whitchurch Park,2010,146500
+Whitchurch Park,2011,147125
+Whitchurch Park,2012,149750
+Whitchurch Park,2013,155343.75
+Whitchurch Park,2014,163686.875
+Whitchurch Park,2015,180623.75
+Whitchurch Park,2016,203312.5
+Whitchurch Park,2017,220000
+Hillfields,1995,43000
+Hillfields,1996,43000
+Hillfields,1997,44862.5
+Hillfields,1998,47462.5
+Hillfields,1999,53737.5
+Hillfields,2000,64625
+Hillfields,2001,75362.5
+Hillfields,2002,90862.5
+Hillfields,2003,113123.75
+Hillfields,2004,123998.75
+Hillfields,2005,134081.25
+Hillfields,2006,142750
+Hillfields,2007,157562.5
+Hillfields,2008,160750
+Hillfields,2009,137750
+Hillfields,2010,143050
+Hillfields,2011,142737.5
+Hillfields,2012,145125
+Hillfields,2013,145625
+Hillfields,2014,162624.375
+Hillfields,2015,178311.875
+Hillfields,2016,201875
+Hillfields,2017,218000
+Horfield,1995,52000
+Horfield,1996,52186.25
+Horfield,1997,55312.5
+Horfield,1998,60050
+Horfield,1999,71625
+Horfield,2000,91000
+Horfield,2001,105306.25
+Horfield,2002,113875
+Horfield,2003,138125
+Horfield,2004,157368.75
+Horfield,2005,164555.625
+Horfield,2006,165329.875
+Horfield,2007,187543.75
+Horfield,2008,184000
+Horfield,2009,162998.75
+Horfield,2010,179593.75
+Horfield,2011,179875
+Horfield,2012,179000
+Horfield,2013,183713.75
+Horfield,2014,210125
+Horfield,2015,220687.5
+Horfield,2016,261150
+Horfield,2017,285000
+Knowle,1995,46000
+Knowle,1996,46000
+Knowle,1997,49281.25
+Knowle,1998,53800
+Knowle,1999,60931.25
+Knowle,2000,73493.125
+Knowle,2001,87111.25
+Knowle,2002,106810.625
+Knowle,2003,122500
+Knowle,2004,134243.125
+Knowle,2005,148499.375
+Knowle,2006,159249.375
+Knowle,2007,173250
+Knowle,2008,170250
+Knowle,2009,161343.75
+Knowle,2010,174881.25
+Knowle,2011,177312.5
+Knowle,2012,183500
+Knowle,2013,200500
+Knowle,2014,213125
+Knowle,2015,237249.375
+Knowle,2016,246312.5
+Knowle,2017,256000
+Lawrence Hill,1995,28571
+Lawrence Hill,1996,28805.75
+Lawrence Hill,1997,29375
+Lawrence Hill,1998,32825
+Lawrence Hill,1999,38619.375
+Lawrence Hill,2000,47747.5
+Lawrence Hill,2001,57862.5
+Lawrence Hill,2002,69000
+Lawrence Hill,2003,87625
+Lawrence Hill,2004,105056.25
+Lawrence Hill,2005,119125
+Lawrence Hill,2006,123112
+Lawrence Hill,2007,131875
+Lawrence Hill,2008,140187.5
+Lawrence Hill,2009,129312.5
+Lawrence Hill,2010,127062.5
+Lawrence Hill,2011,122062.5
+Lawrence Hill,2012,116805.625
+Lawrence Hill,2013,134305
+Lawrence Hill,2014,150500
+Lawrence Hill,2015,166250
+Lawrence Hill,2016,194398.75
+Lawrence Hill,2017,210000
+Lockleaze,1995,43000
+Lockleaze,1996,43062.5
+Lockleaze,1997,44993.75
+Lockleaze,1998,48078.125
+Lockleaze,1999,53375
+Lockleaze,2000,62375
+Lockleaze,2001,70000
+Lockleaze,2002,83000
+Lockleaze,2003,103312.5
+Lockleaze,2004,120487.5
+Lockleaze,2005,127125
+Lockleaze,2006,138237.5
+Lockleaze,2007,158718.75
+Lockleaze,2008,173372.5
+Lockleaze,2009,137715.25
+Lockleaze,2010,140311.875
+Lockleaze,2011,156875
+Lockleaze,2012,150312.5
+Lockleaze,2013,157373.75
+Lockleaze,2014,165698.125
+Lockleaze,2015,185743.75
+Lockleaze,2016,208237.5
+Lockleaze,2017,217000
+Redland,1995,70000
+Redland,1996,71437.5
+Redland,1997,82562.5
+Redland,1998,93612.5
+Redland,1999,113322.5
+Redland,2000,135375
+Redland,2001,149837.5
+Redland,2002,172875
+Redland,2003,206500
+Redland,2004,227500
+Redland,2005,237306.25
+Redland,2006,254918.75
+Redland,2007,281940.75
+Redland,2008,277500
+Redland,2009,254937.5
+Redland,2010,301162.5
+Redland,2011,323187.5
+Redland,2012,321737.5
+Redland,2013,349637.5
+Redland,2014,339625
+Redland,2015,369875
+Redland,2016,443750
+Redland,2017,488750
+Southmead,1995,41000
+Southmead,1996,40237.5
+Southmead,1997,41623.125
+Southmead,1998,45187.5
+Southmead,1999,48431.25
+Southmead,2000,55112.5
+Southmead,2001,67312.5
+Southmead,2002,75500
+Southmead,2003,91562.5
+Southmead,2004,116375
+Southmead,2005,123625
+Southmead,2006,132750
+Southmead,2007,152125
+Southmead,2008,163431.25
+Southmead,2009,146937.5
+Southmead,2010,142312.5
+Southmead,2011,131437.5
+Southmead,2012,144125
+Southmead,2013,142118.75
+Southmead,2014,164737.5
+Southmead,2015,176937.5
+Southmead,2016,203281.25
+Southmead,2017,228000
+Southville,1995,46250
+Southville,1996,45375
+Southville,1997,50362.5
+Southville,1998,57250
+Southville,1999,67111.875
+Southville,2000,83093.75
+Southville,2001,99125
+Southville,2002,115750
+Southville,2003,147250
+Southville,2004,156468.75
+Southville,2005,159875
+Southville,2006,169125
+Southville,2007,187000
+Southville,2008,189250
+Southville,2009,181231.25
+Southville,2010,213437.5
+Southville,2011,209625
+Southville,2012,219812.5
+Southville,2013,218750
+Southville,2014,224625
+Southville,2015,241875
+Southville,2016,251531.25
+Southville,2017,294050
+St George East,1995,45000
+St George East,1996,46124.375
+St George East,1997,51062.5
+St George East,1998,55706.25
+St George East,1999,57562.5
+St George East,2000,66371.25
+St George East,2001,76987.5
+St George East,2002,93175
+St George East,2003,120312.5
+St George East,2004,128725
+St George East,2005,135500
+St George East,2006,144624.375
+St George East,2007,158687.5
+St George East,2008,157250
+St George East,2009,138335.5
+St George East,2010,151937.5
+St George East,2011,150487.5
+St George East,2012,149037.5
+St George East,2013,152106.25
+St George East,2014,169875
+St George East,2015,186681.25
+St George East,2016,198937.5
+St George East,2017,220000
+St George West,1995,34250
+St George West,1996,35750
+St George West,1997,36781.25
+St George West,1998,40380.625
+St George West,1999,45800
+St George West,2000,53530
+St George West,2001,63186.875
+St George West,2002,76375
+St George West,2003,100493.75
+St George West,2004,113700
+St George West,2005,123687.5
+St George West,2006,126375
+St George West,2007,142473.75
+St George West,2008,139737.5
+St George West,2009,128999.375
+St George West,2010,134812.5
+St George West,2011,132623.75
+St George West,2012,130248.75
+St George West,2013,136675
+St George West,2014,155237.5
+St George West,2015,177937.5
+St George West,2016,197062.5
+St George West,2017,210000
+Stockwood,1995,50000
+Stockwood,1996,50050
+Stockwood,1997,54562.5
+Stockwood,1998,59375
+Stockwood,1999,65361.875
+Stockwood,2000,77800
+Stockwood,2001,84750
+Stockwood,2002,103500
+Stockwood,2003,142123.75
+Stockwood,2004,148375
+Stockwood,2005,141750
+Stockwood,2006,150500
+Stockwood,2007,163743.75
+Stockwood,2008,156243.75
+Stockwood,2009,152812.5
+Stockwood,2010,164236
+Stockwood,2011,157875
+Stockwood,2012,165118.75
+Stockwood,2013,165250
+Stockwood,2014,174061.875
+Stockwood,2015,185374.375
+Stockwood,2016,215624.375
+Stockwood,2017,230000
+Henleaze,1995,85622.60442
+Henleaze,1996,81989.14106
+Henleaze,1997,91313.52398
+Henleaze,1998,116443.7571
+Henleaze,1999,132803.4696
+Henleaze,2000,144583.0506
+Henleaze,2001,164970.495
+Henleaze,2002,197590.3605
+Henleaze,2003,241172.7766
+Henleaze,2004,254932.0327
+Henleaze,2005,270175.6825
+Henleaze,2006,277745.3586
+Henleaze,2007,308065.9455
+Henleaze,2008,324863.7202
+Henleaze,2009,298570.941
+Henleaze,2010,335214.0309
+Henleaze,2011,331030.7964
+Henleaze,2012,344556.9065
+Henleaze,2013,364410.2374
+Henleaze,2014,372651.1358
+Henleaze,2015,409811.6117
+Henleaze,2016,456591.7739
+Henleaze,2017,473012.2498
+Stoke Bishop,1995,93000
+Stoke Bishop,1996,88900
+Stoke Bishop,1997,101156.25
+Stoke Bishop,1998,118649.625
+Stoke Bishop,1999,126937.5
+Stoke Bishop,2000,130237.5
+Stoke Bishop,2001,155125
+Stoke Bishop,2002,172000
+Stoke Bishop,2003,224500
+Stoke Bishop,2004,229625
+Stoke Bishop,2005,248912.5
+Stoke Bishop,2006,254625
+Stoke Bishop,2007,277387.5
+Stoke Bishop,2008,270687.5
+Stoke Bishop,2009,286250
+Stoke Bishop,2010,297000
+Stoke Bishop,2011,287625
+Stoke Bishop,2012,310312.5
+Stoke Bishop,2013,341250
+Stoke Bishop,2014,345000
+Stoke Bishop,2015,354250
+Stoke Bishop,2016,413125
+Stoke Bishop,2017,412500
+Westbury-on-Trym,1995,82500
+Westbury-on-Trym,1996,84431.25
+Westbury-on-Trym,1997,92362.5
+Westbury-on-Trym,1998,112112.5
+Westbury-on-Trym,1999,128250
+Westbury-on-Trym,2000,150662.5
+Westbury-on-Trym,2001,167862.5
+Westbury-on-Trym,2002,192125
+Westbury-on-Trym,2003,235875
+Westbury-on-Trym,2004,248737.5
+Westbury-on-Trym,2005,261868.75
+Westbury-on-Trym,2006,270593.75
+Westbury-on-Trym,2007,317237.5
+Westbury-on-Trym,2008,334375
+Westbury-on-Trym,2009,286000
+Westbury-on-Trym,2010,320500
+Westbury-on-Trym,2011,346937.5
+Westbury-on-Trym,2012,339875
+Westbury-on-Trym,2013,351625
+Westbury-on-Trym,2014,372637.5
+Westbury-on-Trym,2015,402821.875
+Westbury-on-Trym,2016,436250
+Westbury-on-Trym,2017,463000
+Windmill Hill,1995,40000
+Windmill Hill,1996,38925
+Windmill Hill,1997,41487.5
+Windmill Hill,1998,45436.25
+Windmill Hill,1999,53243.25
+Windmill Hill,2000,70243.125
+Windmill Hill,2001,80750
+Windmill Hill,2002,97875
+Windmill Hill,2003,124000
+Windmill Hill,2004,136375
+Windmill Hill,2005,148623.125
+Windmill Hill,2006,159125
+Windmill Hill,2007,177436.25
+Windmill Hill,2008,178000
+Windmill Hill,2009,164187.5
+Windmill Hill,2010,173625
+Windmill Hill,2011,179062.5
+Windmill Hill,2012,187061.25
+Windmill Hill,2013,196125
+Windmill Hill,2014,214437.5
+Windmill Hill,2015,230500
+Windmill Hill,2016,260281.25
+Windmill Hill,2017,282000
