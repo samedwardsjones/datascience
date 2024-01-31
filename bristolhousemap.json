@@ -51,7 +51,7 @@
         "color": {
           "field": "Value",
           "legend": {
-            "title": "Property Value",
+            "title": "Median Property Value",
             "orient": "top-right",
             "direction": "horizontal",
             "labelAlign": "left"

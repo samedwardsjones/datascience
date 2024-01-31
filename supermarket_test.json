@@ -1,0 +1,24 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "values": [
+      {
+        "supermarket": "Supermarket A",
+        "bread_cost": 2.5,
+        "avocado_cost": 1.2,
+        "logo": "Tesco_Logo.png"
+      }
+    ]
+  },
+  "mark": {"type": "point", "filled": true, "size": 100},
+  "encoding": {
+    "x": {"field": "bread_cost", "type": "quantitative", "title": "Bread Cost"},
+    "y": {
+      "field": "avocado_cost",
+      "type": "quantitative",
+      "title": "Avocado Cost"
+    },
+    "shape": {"field": "logo", "type": "nominal", "legend": null}
+  },
+  "config": {}
+}
