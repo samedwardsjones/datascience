@@ -22,6 +22,12 @@ Ashley,2014,209000
 Ashley,2015,232500
 Ashley,2016,266531.25
 Ashley,2017,285000
+Ashley,2018,276750
+Ashley,2019,304875
+Ashley,2020,327812.5
+Ashley,2021,376231.25
+Ashley,2022,361875
+Ashley,2023,380000
 Avonmouth,1995,43500
 Avonmouth,1996,43125
 Avonmouth,1997,47687.5
@@ -45,6 +51,12 @@ Avonmouth,2014,155112.5
 Avonmouth,2015,173362.5
 Avonmouth,2016,193750
 Avonmouth,2017,206000
+Avonmouth,2018,219500
+Avonmouth,2019,225000
+Avonmouth,2020,225950
+Avonmouth,2021,257656.25
+Avonmouth,2022,271718.75
+Avonmouth,2023,285000
 Bedminster,1995,40250
 Bedminster,1996,39862.5
 Bedminster,1997,42168.75
@@ -68,6 +80,12 @@ Bedminster,2014,200143.75
 Bedminster,2015,220499.75
 Bedminster,2016,247787.5
 Bedminster,2017,280000
+Bedminster,2018,294375
+Bedminster,2019,285812.5
+Bedminster,2020,302961.875
+Bedminster,2021,323750
+Bedminster,2022,358537.375
+Bedminster,2023,397575
 Bishopston,1995,57450
 Bishopston,1996,58112.5
 Bishopston,1997,63250
@@ -91,6 +109,12 @@ Bishopston,2014,257493.75
 Bishopston,2015,294187.5
 Bishopston,2016,337125
 Bishopston,2017,366000
+Bishopston,2018,380200
+Bishopston,2019,386343.75
+Bishopston,2020,384562.5
+Bishopston,2021,431812.5
+Bishopston,2022,465812.5
+Bishopston,2023,482500
 Bishopsworth,1995,48750
 Bishopsworth,1996,47437.5
 Bishopsworth,1997,48300
@@ -114,6 +138,12 @@ Bishopsworth,2014,170500
 Bishopsworth,2015,185811.25
 Bishopsworth,2016,211833.25
 Bishopsworth,2017,225150
+Bishopsworth,2018,237240.625
+Bishopsworth,2019,258047.5
+Bishopsworth,2020,275500
+Bishopsworth,2021,294625
+Bishopsworth,2022,298125
+Bishopsworth,2023,315000
 Brislington East,1995,43775
 Brislington East,1996,45625
 Brislington East,1997,47968.125
@@ -137,6 +167,12 @@ Brislington East,2014,160987.5
 Brislington East,2015,171487.5
 Brislington East,2016,201437.5
 Brislington East,2017,220750
+Brislington East,2018,239125
+Brislington East,2019,245187.5
+Brislington East,2020,248687.5
+Brislington East,2021,264750
+Brislington East,2022,288500
+Brislington East,2023,325000
 Brislington West,1995,43000
 Brislington West,1996,42250
 Brislington West,1997,45018.75
@@ -160,6 +196,12 @@ Brislington West,2014,180868.75
 Brislington West,2015,210875
 Brislington West,2016,250243.75
 Brislington West,2017,268000
+Brislington West,2018,284668.75
+Brislington West,2019,260750
+Brislington West,2020,278373.75
+Brislington West,2021,310875
+Brislington West,2022,350290
+Brislington West,2023,380000
 Cabot,1995,48950
 Cabot,1996,48337.5
 Cabot,1997,53725
@@ -183,6 +225,12 @@ Cabot,2014,182625
 Cabot,2015,204625
 Cabot,2016,254325
 Cabot,2017,257300
+Cabot,2018,251250
+Cabot,2019,258937.5
+Cabot,2020,276750
+Cabot,2021,315250
+Cabot,2022,267250
+Cabot,2023,270000
 Clifton,1995,70000
 Clifton,1996,70125
 Clifton,1997,77243.75
@@ -206,6 +254,18 @@ Clifton,2014,286250
 Clifton,2015,317000
 Clifton,2016,365675
 Clifton,2017,415000
+Clifton,2018,417875
+Clifton,2019,411187.5
+Clifton,2020,409875
+Clifton,2021,433437.5
+Clifton,2022,441262.5
+Clifton,2023,440902.5
+Clifton East,2018,381128.625
+Clifton East,2019,369380
+Clifton East,2020,408875
+Clifton East,2021,425375
+Clifton East,2022,426625
+Clifton East,2023,450000
 Clifton East,1995,67000
 Clifton East,1996,69000
 Clifton East,1997,70962.5
@@ -252,6 +312,12 @@ Cotham,2014,256383
 Cotham,2015,265000
 Cotham,2016,302631.25
 Cotham,2017,310000
+Cotham,2018,336187.5
+Cotham,2019,321062.5
+Cotham,2020,360875
+Cotham,2021,374237.5
+Cotham,2022,370312.5
+Cotham,2023,390000
 Easton,1995,32100
 Easton,1996,30312.5
 Easton,1997,33875
@@ -275,6 +341,12 @@ Easton,2014,156062.5
 Easton,2015,188430
 Easton,2016,227937.5
 Easton,2017,247000
+Easton,2018,269279.625
+Easton,2019,270750
+Easton,2020,276450
+Easton,2021,310265.625
+Easton,2022,345782.5
+Easton,2023,360000
 Eastville,1995,40000
 Eastville,1996,40868.75
 Eastville,1997,45375
@@ -298,6 +370,12 @@ Eastville,2014,166875
 Eastville,2015,180500
 Eastville,2016,199636.25
 Eastville,2017,228500
+Eastville,2018,237831.25
+Eastville,2019,247248.75
+Eastville,2020,252748.75
+Eastville,2021,277124.375
+Eastville,2022,298837.5
+Eastville,2023,330000
 Filwood,1995,29000
 Filwood,1996,31437.5
 Filwood,1997,31367.5
@@ -321,6 +399,12 @@ Filwood,2014,136000
 Filwood,2015,148625
 Filwood,2016,171000
 Filwood,2017,185000
+Filwood,2018,220777.75
+Filwood,2019,225499.375
+Filwood,2020,232373.75
+Filwood,2021,259746.25
+Filwood,2022,268750
+Filwood,2023,291000
 Frome Vale,1995,46500
 Frome Vale,1996,47750
 Frome Vale,1997,55593.75
@@ -344,6 +428,12 @@ Frome Vale,2014,178750
 Frome Vale,2015,194250
 Frome Vale,2016,215750
 Frome Vale,2017,220000
+Frome Vale,2018,262368.75
+Frome Vale,2019,267122.5
+Frome Vale,2020,275562.5
+Frome Vale,2021,299125
+Frome Vale,2022,312437.5
+Frome Vale,2023,320500
 Hartcliffe,1995,40000
 Hartcliffe,1996,36562.5
 Hartcliffe,1997,36987.5
@@ -367,6 +457,12 @@ Hartcliffe,2014,129437.5
 Hartcliffe,2015,142248.75
 Hartcliffe,2016,167187.5
 Hartcliffe,2017,180000
+Hartcliffe,2018,188062.5
+Hartcliffe,2019,194500
+Hartcliffe,2020,197000
+Hartcliffe,2021,217625
+Hartcliffe,2022,244612.5
+Hartcliffe,2023,260000
 Henbury,1995,45500
 Henbury,1996,45518.75
 Henbury,1997,48500
@@ -390,6 +486,12 @@ Henbury,2014,163531.25
 Henbury,2015,171500
 Henbury,2016,206925
 Henbury,2017,215000
+Henbury,2018,232687.5
+Henbury,2019,231800
+Henbury,2020,233737.5
+Henbury,2021,255687.5
+Henbury,2022,277123.75
+Henbury,2023,300000
 Hengrove,1995,46500
 Hengrove,1996,47373.75
 Hengrove,1997,50862.5
@@ -413,282 +515,12 @@ Hengrove,2014,163686.875
 Hengrove,2015,180623.75
 Hengrove,2016,203312.5
 Hengrove,2017,220000
-Whitchurch Park,1995,46500
-Whitchurch Park,1996,47373.75
-Whitchurch Park,1997,50862.5
-Whitchurch Park,1998,53500
-Whitchurch Park,1999,56993.125
-Whitchurch Park,2000,67312.5
-Whitchurch Park,2001,76873.75
-Whitchurch Park,2002,88686.875
-Whitchurch Park,2003,110362.5
-Whitchurch Park,2004,126937.5
-Whitchurch Park,2005,132487.5
-Whitchurch Park,2006,139856.25
-Whitchurch Park,2007,150875
-Whitchurch Park,2008,159717.5
-Whitchurch Park,2009,143937.5
-Whitchurch Park,2010,146500
-Whitchurch Park,2011,147125
-Whitchurch Park,2012,149750
-Whitchurch Park,2013,155343.75
-Whitchurch Park,2014,163686.875
-Whitchurch Park,2015,180623.75
-Whitchurch Park,2016,203312.5
-Whitchurch Park,2017,220000
-Hillfields,1995,43000
-Hillfields,1996,43000
-Hillfields,1997,44862.5
-Hillfields,1998,47462.5
-Hillfields,1999,53737.5
-Hillfields,2000,64625
-Hillfields,2001,75362.5
-Hillfields,2002,90862.5
-Hillfields,2003,113123.75
-Hillfields,2004,123998.75
-Hillfields,2005,134081.25
-Hillfields,2006,142750
-Hillfields,2007,157562.5
-Hillfields,2008,160750
-Hillfields,2009,137750
-Hillfields,2010,143050
-Hillfields,2011,142737.5
-Hillfields,2012,145125
-Hillfields,2013,145625
-Hillfields,2014,162624.375
-Hillfields,2015,178311.875
-Hillfields,2016,201875
-Hillfields,2017,218000
-Horfield,1995,52000
-Horfield,1996,52186.25
-Horfield,1997,55312.5
-Horfield,1998,60050
-Horfield,1999,71625
-Horfield,2000,91000
-Horfield,2001,105306.25
-Horfield,2002,113875
-Horfield,2003,138125
-Horfield,2004,157368.75
-Horfield,2005,164555.625
-Horfield,2006,165329.875
-Horfield,2007,187543.75
-Horfield,2008,184000
-Horfield,2009,162998.75
-Horfield,2010,179593.75
-Horfield,2011,179875
-Horfield,2012,179000
-Horfield,2013,183713.75
-Horfield,2014,210125
-Horfield,2015,220687.5
-Horfield,2016,261150
-Horfield,2017,285000
-Knowle,1995,46000
-Knowle,1996,46000
-Knowle,1997,49281.25
-Knowle,1998,53800
-Knowle,1999,60931.25
-Knowle,2000,73493.125
-Knowle,2001,87111.25
-Knowle,2002,106810.625
-Knowle,2003,122500
-Knowle,2004,134243.125
-Knowle,2005,148499.375
-Knowle,2006,159249.375
-Knowle,2007,173250
-Knowle,2008,170250
-Knowle,2009,161343.75
-Knowle,2010,174881.25
-Knowle,2011,177312.5
-Knowle,2012,183500
-Knowle,2013,200500
-Knowle,2014,213125
-Knowle,2015,237249.375
-Knowle,2016,246312.5
-Knowle,2017,256000
-Lawrence Hill,1995,28571
-Lawrence Hill,1996,28805.75
-Lawrence Hill,1997,29375
-Lawrence Hill,1998,32825
-Lawrence Hill,1999,38619.375
-Lawrence Hill,2000,47747.5
-Lawrence Hill,2001,57862.5
-Lawrence Hill,2002,69000
-Lawrence Hill,2003,87625
-Lawrence Hill,2004,105056.25
-Lawrence Hill,2005,119125
-Lawrence Hill,2006,123112
-Lawrence Hill,2007,131875
-Lawrence Hill,2008,140187.5
-Lawrence Hill,2009,129312.5
-Lawrence Hill,2010,127062.5
-Lawrence Hill,2011,122062.5
-Lawrence Hill,2012,116805.625
-Lawrence Hill,2013,134305
-Lawrence Hill,2014,150500
-Lawrence Hill,2015,166250
-Lawrence Hill,2016,194398.75
-Lawrence Hill,2017,210000
-Lockleaze,1995,43000
-Lockleaze,1996,43062.5
-Lockleaze,1997,44993.75
-Lockleaze,1998,48078.125
-Lockleaze,1999,53375
-Lockleaze,2000,62375
-Lockleaze,2001,70000
-Lockleaze,2002,83000
-Lockleaze,2003,103312.5
-Lockleaze,2004,120487.5
-Lockleaze,2005,127125
-Lockleaze,2006,138237.5
-Lockleaze,2007,158718.75
-Lockleaze,2008,173372.5
-Lockleaze,2009,137715.25
-Lockleaze,2010,140311.875
-Lockleaze,2011,156875
-Lockleaze,2012,150312.5
-Lockleaze,2013,157373.75
-Lockleaze,2014,165698.125
-Lockleaze,2015,185743.75
-Lockleaze,2016,208237.5
-Lockleaze,2017,217000
-Redland,1995,70000
-Redland,1996,71437.5
-Redland,1997,82562.5
-Redland,1998,93612.5
-Redland,1999,113322.5
-Redland,2000,135375
-Redland,2001,149837.5
-Redland,2002,172875
-Redland,2003,206500
-Redland,2004,227500
-Redland,2005,237306.25
-Redland,2006,254918.75
-Redland,2007,281940.75
-Redland,2008,277500
-Redland,2009,254937.5
-Redland,2010,301162.5
-Redland,2011,323187.5
-Redland,2012,321737.5
-Redland,2013,349637.5
-Redland,2014,339625
-Redland,2015,369875
-Redland,2016,443750
-Redland,2017,488750
-Southmead,1995,41000
-Southmead,1996,40237.5
-Southmead,1997,41623.125
-Southmead,1998,45187.5
-Southmead,1999,48431.25
-Southmead,2000,55112.5
-Southmead,2001,67312.5
-Southmead,2002,75500
-Southmead,2003,91562.5
-Southmead,2004,116375
-Southmead,2005,123625
-Southmead,2006,132750
-Southmead,2007,152125
-Southmead,2008,163431.25
-Southmead,2009,146937.5
-Southmead,2010,142312.5
-Southmead,2011,131437.5
-Southmead,2012,144125
-Southmead,2013,142118.75
-Southmead,2014,164737.5
-Southmead,2015,176937.5
-Southmead,2016,203281.25
-Southmead,2017,228000
-Southville,1995,46250
-Southville,1996,45375
-Southville,1997,50362.5
-Southville,1998,57250
-Southville,1999,67111.875
-Southville,2000,83093.75
-Southville,2001,99125
-Southville,2002,115750
-Southville,2003,147250
-Southville,2004,156468.75
-Southville,2005,159875
-Southville,2006,169125
-Southville,2007,187000
-Southville,2008,189250
-Southville,2009,181231.25
-Southville,2010,213437.5
-Southville,2011,209625
-Southville,2012,219812.5
-Southville,2013,218750
-Southville,2014,224625
-Southville,2015,241875
-Southville,2016,251531.25
-Southville,2017,294050
-St George East,1995,45000
-St George East,1996,46124.375
-St George East,1997,51062.5
-St George East,1998,55706.25
-St George East,1999,57562.5
-St George East,2000,66371.25
-St George East,2001,76987.5
-St George East,2002,93175
-St George East,2003,120312.5
-St George East,2004,128725
-St George East,2005,135500
-St George East,2006,144624.375
-St George East,2007,158687.5
-St George East,2008,157250
-St George East,2009,138335.5
-St George East,2010,151937.5
-St George East,2011,150487.5
-St George East,2012,149037.5
-St George East,2013,152106.25
-St George East,2014,169875
-St George East,2015,186681.25
-St George East,2016,198937.5
-St George East,2017,220000
-St George West,1995,34250
-St George West,1996,35750
-St George West,1997,36781.25
-St George West,1998,40380.625
-St George West,1999,45800
-St George West,2000,53530
-St George West,2001,63186.875
-St George West,2002,76375
-St George West,2003,100493.75
-St George West,2004,113700
-St George West,2005,123687.5
-St George West,2006,126375
-St George West,2007,142473.75
-St George West,2008,139737.5
-St George West,2009,128999.375
-St George West,2010,134812.5
-St George West,2011,132623.75
-St George West,2012,130248.75
-St George West,2013,136675
-St George West,2014,155237.5
-St George West,2015,177937.5
-St George West,2016,197062.5
-St George West,2017,210000
-Stockwood,1995,50000
-Stockwood,1996,50050
-Stockwood,1997,54562.5
-Stockwood,1998,59375
-Stockwood,1999,65361.875
-Stockwood,2000,77800
-Stockwood,2001,84750
-Stockwood,2002,103500
-Stockwood,2003,142123.75
-Stockwood,2004,148375
-Stockwood,2005,141750
-Stockwood,2006,150500
-Stockwood,2007,163743.75
-Stockwood,2008,156243.75
-Stockwood,2009,152812.5
-Stockwood,2010,164236
-Stockwood,2011,157875
-Stockwood,2012,165118.75
-Stockwood,2013,165250
-Stockwood,2014,174061.875
-Stockwood,2015,185374.375
-Stockwood,2016,215624.375
-Stockwood,2017,230000
+Hengrove,2018,227375
+Hengrove,2019,234980.625
+Hengrove,2020,240062.5
+Hengrove,2021,249625
+Hengrove,2022,275125
+Hengrove,2023,301750
 Henleaze,1995,85622.60442
 Henleaze,1996,81989.14106
 Henleaze,1997,91313.52398
@@ -712,6 +544,337 @@ Henleaze,2014,372651.1358
 Henleaze,2015,409811.6117
 Henleaze,2016,456591.7739
 Henleaze,2017,473012.2498
+Henleaze,2018,513387.5
+Henleaze,2019,537125
+Henleaze,2020,545750
+Henleaze,2021,565125
+Henleaze,2022,647562.5
+Henleaze,2023,683000
+Hillfields,1995,43000
+Hillfields,1996,43000
+Hillfields,1997,44862.5
+Hillfields,1998,47462.5
+Hillfields,1999,53737.5
+Hillfields,2000,64625
+Hillfields,2001,75362.5
+Hillfields,2002,90862.5
+Hillfields,2003,113123.75
+Hillfields,2004,123998.75
+Hillfields,2005,134081.25
+Hillfields,2006,142750
+Hillfields,2007,157562.5
+Hillfields,2008,160750
+Hillfields,2009,137750
+Hillfields,2010,143050
+Hillfields,2011,142737.5
+Hillfields,2012,145125
+Hillfields,2013,145625
+Hillfields,2014,162624.375
+Hillfields,2015,178311.875
+Hillfields,2016,201875
+Hillfields,2017,218000
+Hillfields,2018,237000
+Hillfields,2019,236250
+Hillfields,2020,248062.5
+Hillfields,2021,261125
+Hillfields,2022,289437.5
+Hillfields,2023,317000
+Horfield,1995,52000
+Horfield,1996,52186.25
+Horfield,1997,55312.5
+Horfield,1998,60050
+Horfield,1999,71625
+Horfield,2000,91000
+Horfield,2001,105306.25
+Horfield,2002,113875
+Horfield,2003,138125
+Horfield,2004,157368.75
+Horfield,2005,164555.625
+Horfield,2006,165329.875
+Horfield,2007,187543.75
+Horfield,2008,184000
+Horfield,2009,162998.75
+Horfield,2010,179593.75
+Horfield,2011,179875
+Horfield,2012,179000
+Horfield,2013,183713.75
+Horfield,2014,210125
+Horfield,2015,220687.5
+Horfield,2016,261150
+Horfield,2017,285000
+Horfield,2018,291937.5
+Horfield,2019,313750
+Horfield,2020,322700.125
+Horfield,2021,355150
+Horfield,2022,357668.75
+Horfield,2023,375000
+Knowle,1995,46000
+Knowle,1996,46000
+Knowle,1997,49281.25
+Knowle,1998,53800
+Knowle,1999,60931.25
+Knowle,2000,73493.125
+Knowle,2001,87111.25
+Knowle,2002,106810.625
+Knowle,2003,122500
+Knowle,2004,134243.125
+Knowle,2005,148499.375
+Knowle,2006,159249.375
+Knowle,2007,173250
+Knowle,2008,170250
+Knowle,2009,161343.75
+Knowle,2010,174881.25
+Knowle,2011,177312.5
+Knowle,2012,183500
+Knowle,2013,200500
+Knowle,2014,213125
+Knowle,2015,237249.375
+Knowle,2016,246312.5
+Knowle,2017,256000
+Knowle,2018,256993.75
+Knowle,2019,285250
+Knowle,2020,292375
+Knowle,2021,338324.375
+Knowle,2022,350250
+Knowle,2023,376500
+Lawrence Hill,1995,28571
+Lawrence Hill,1996,28805.75
+Lawrence Hill,1997,29375
+Lawrence Hill,1998,32825
+Lawrence Hill,1999,38619.375
+Lawrence Hill,2000,47747.5
+Lawrence Hill,2001,57862.5
+Lawrence Hill,2002,69000
+Lawrence Hill,2003,87625
+Lawrence Hill,2004,105056.25
+Lawrence Hill,2005,119125
+Lawrence Hill,2006,123112
+Lawrence Hill,2007,131875
+Lawrence Hill,2008,140187.5
+Lawrence Hill,2009,129312.5
+Lawrence Hill,2010,127062.5
+Lawrence Hill,2011,122062.5
+Lawrence Hill,2012,116805.625
+Lawrence Hill,2013,134305
+Lawrence Hill,2014,150500
+Lawrence Hill,2015,166250
+Lawrence Hill,2016,194398.75
+Lawrence Hill,2017,210000
+Lawrence Hill,2018,221893.75
+Lawrence Hill,2019,211937.5
+Lawrence Hill,2020,234500
+Lawrence Hill,2021,258631.25
+Lawrence Hill,2022,260562.5
+Lawrence Hill,2023,275000
+Lockleaze,1995,43000
+Lockleaze,1996,43062.5
+Lockleaze,1997,44993.75
+Lockleaze,1998,48078.125
+Lockleaze,1999,53375
+Lockleaze,2000,62375
+Lockleaze,2001,70000
+Lockleaze,2002,83000
+Lockleaze,2003,103312.5
+Lockleaze,2004,120487.5
+Lockleaze,2005,127125
+Lockleaze,2006,138237.5
+Lockleaze,2007,158718.75
+Lockleaze,2008,173372.5
+Lockleaze,2009,137715.25
+Lockleaze,2010,140311.875
+Lockleaze,2011,156875
+Lockleaze,2012,150312.5
+Lockleaze,2013,157373.75
+Lockleaze,2014,165698.125
+Lockleaze,2015,185743.75
+Lockleaze,2016,208237.5
+Lockleaze,2017,217000
+Lockleaze,2018,248875
+Lockleaze,2019,250487.5
+Lockleaze,2020,252375
+Lockleaze,2021,279875
+Lockleaze,2022,305812.5
+Lockleaze,2023,331375
+Redland,1995,70000
+Redland,1996,71437.5
+Redland,1997,82562.5
+Redland,1998,93612.5
+Redland,1999,113322.5
+Redland,2000,135375
+Redland,2001,149837.5
+Redland,2002,172875
+Redland,2003,206500
+Redland,2004,227500
+Redland,2005,237306.25
+Redland,2006,254918.75
+Redland,2007,281940.75
+Redland,2008,277500
+Redland,2009,254937.5
+Redland,2010,301162.5
+Redland,2011,323187.5
+Redland,2012,321737.5
+Redland,2013,349637.5
+Redland,2014,339625
+Redland,2015,369875
+Redland,2016,443750
+Redland,2017,488750
+Redland,2018,472843.75
+Redland,2019,466486
+Redland,2020,521593.75
+Redland,2021,578125
+Redland,2022,559375
+Redland,2023,590000
+Southmead,1995,41000
+Southmead,1996,40237.5
+Southmead,1997,41623.125
+Southmead,1998,45187.5
+Southmead,1999,48431.25
+Southmead,2000,55112.5
+Southmead,2001,67312.5
+Southmead,2002,75500
+Southmead,2003,91562.5
+Southmead,2004,116375
+Southmead,2005,123625
+Southmead,2006,132750
+Southmead,2007,152125
+Southmead,2008,163431.25
+Southmead,2009,146937.5
+Southmead,2010,142312.5
+Southmead,2011,131437.5
+Southmead,2012,144125
+Southmead,2013,142118.75
+Southmead,2014,164737.5
+Southmead,2015,176937.5
+Southmead,2016,203281.25
+Southmead,2017,228000
+Southmead,2018,239375
+Southmead,2019,240968.75
+Southmead,2020,244781.25
+Southmead,2021,263812.5
+Southmead,2022,279437.5
+Southmead,2023,305000
+Southville,1995,46250
+Southville,1996,45375
+Southville,1997,50362.5
+Southville,1998,57250
+Southville,1999,67111.875
+Southville,2000,83093.75
+Southville,2001,99125
+Southville,2002,115750
+Southville,2003,147250
+Southville,2004,156468.75
+Southville,2005,159875
+Southville,2006,169125
+Southville,2007,187000
+Southville,2008,189250
+Southville,2009,181231.25
+Southville,2010,213437.5
+Southville,2011,209625
+Southville,2012,219812.5
+Southville,2013,218750
+Southville,2014,224625
+Southville,2015,241875
+Southville,2016,251531.25
+Southville,2017,294050
+Southville,2018,284702.5
+Southville,2019,276362.5
+Southville,2020,342937.5
+Southville,2021,375875
+Southville,2022,377781.25
+Southville,2023,400000
+St George East,2018,220125
+St George East,2019,231000
+St George East,2020,233250
+St George East,2021,259625
+St George East,2022,281250
+St George East,2023,302500
+St George East,1995,45000
+St George East,1996,46124.375
+St George East,1997,51062.5
+St George East,1998,55706.25
+St George East,1999,57562.5
+St George East,2000,66371.25
+St George East,2001,76987.5
+St George East,2002,93175
+St George East,2003,120312.5
+St George East,2004,128725
+St George East,2005,135500
+St George East,2006,144624.375
+St George East,2007,158687.5
+St George East,2008,157250
+St George East,2009,138335.5
+St George East,2010,151937.5
+St George East,2011,150487.5
+St George East,2012,149037.5
+St George East,2013,152106.25
+St George East,2014,169875
+St George East,2015,186681.25
+St George East,2016,198937.5
+St George East,2017,220000
+St George West,2018,238748.75
+St George West,2019,242625
+St George West,2020,246250
+St George West,2021,270250
+St George West,2022,303625
+St George West,2023,326000
+St George West,1995,34250
+St George West,1996,35750
+St George West,1997,36781.25
+St George West,1998,40380.625
+St George West,1999,45800
+St George West,2000,53530
+St George West,2001,63186.875
+St George West,2002,76375
+St George West,2003,100493.75
+St George West,2004,113700
+St George West,2005,123687.5
+St George West,2006,126375
+St George West,2007,142473.75
+St George West,2008,139737.5
+St George West,2009,128999.375
+St George West,2010,134812.5
+St George West,2011,132623.75
+St George West,2012,130248.75
+St George West,2013,136675
+St George West,2014,155237.5
+St George West,2015,177937.5
+St George West,2016,197062.5
+St George West,2017,210000
+St George West,2018,239998.75
+St George West,2019,227493.75
+St George West,2020,233473.625
+St George West,2021,271498.75
+St George West,2022,288125
+St George West,2023,332500
+Stockwood,1995,50000
+Stockwood,1996,50050
+Stockwood,1997,54562.5
+Stockwood,1998,59375
+Stockwood,1999,65361.875
+Stockwood,2000,77800
+Stockwood,2001,84750
+Stockwood,2002,103500
+Stockwood,2003,142123.75
+Stockwood,2004,148375
+Stockwood,2005,141750
+Stockwood,2006,150500
+Stockwood,2007,163743.75
+Stockwood,2008,156243.75
+Stockwood,2009,152812.5
+Stockwood,2010,164236
+Stockwood,2011,157875
+Stockwood,2012,165118.75
+Stockwood,2013,165250
+Stockwood,2014,174061.875
+Stockwood,2015,185374.375
+Stockwood,2016,215624.375
+Stockwood,2017,230000
+Stockwood,2018,242875
+Stockwood,2019,246937.5
+Stockwood,2020,257750
+Stockwood,2021,271750
+Stockwood,2022,294931.25
+Stockwood,2023,311000
 Stoke Bishop,1995,93000
 Stoke Bishop,1996,88900
 Stoke Bishop,1997,101156.25
@@ -735,6 +898,12 @@ Stoke Bishop,2014,345000
 Stoke Bishop,2015,354250
 Stoke Bishop,2016,413125
 Stoke Bishop,2017,412500
+Stoke Bishop,2018,465875
+Stoke Bishop,2019,485000
+Stoke Bishop,2020,501031.25
+Stoke Bishop,2021,533125
+Stoke Bishop,2022,509062.5
+Stoke Bishop,2023,530000
 Westbury-on-Trym,1995,82500
 Westbury-on-Trym,1996,84431.25
 Westbury-on-Trym,1997,92362.5
@@ -758,6 +927,35 @@ Westbury-on-Trym,2014,372637.5
 Westbury-on-Trym,2015,402821.875
 Westbury-on-Trym,2016,436250
 Westbury-on-Trym,2017,463000
+Whitchurch Park,1995,46500
+Whitchurch Park,1996,47373.75
+Whitchurch Park,1997,50862.5
+Whitchurch Park,1998,53500
+Whitchurch Park,1999,56993.125
+Whitchurch Park,2000,67312.5
+Whitchurch Park,2001,76873.75
+Whitchurch Park,2002,88686.875
+Whitchurch Park,2003,110362.5
+Whitchurch Park,2004,126937.5
+Whitchurch Park,2005,132487.5
+Whitchurch Park,2006,139856.25
+Whitchurch Park,2007,150875
+Whitchurch Park,2008,159717.5
+Whitchurch Park,2009,143937.5
+Whitchurch Park,2010,146500
+Whitchurch Park,2011,147125
+Whitchurch Park,2012,149750
+Whitchurch Park,2013,155343.75
+Whitchurch Park,2014,163686.875
+Whitchurch Park,2015,180623.75
+Whitchurch Park,2016,203312.5
+Whitchurch Park,2017,220000
+Whitchurch Park,2018,222827.5
+Whitchurch Park,2019,230281.0125
+Whitchurch Park,2020,235261.25
+Whitchurch Park,2021,244632.5
+Whitchurch Park,2022,269622.5
+Whitchurch Park,2023,295715
 Windmill Hill,1995,40000
 Windmill Hill,1996,38925
 Windmill Hill,1997,41487.5
@@ -781,207 +979,9 @@ Windmill Hill,2014,214437.5
 Windmill Hill,2015,230500
 Windmill Hill,2016,260281.25
 Windmill Hill,2017,282000
-Ashley,2018,276750
-Ashley,2019,304875
-Ashley,2020,327812.5
-Ashley,2021,376231.25
-Ashley,2022,361875
-Ashley,2023,380000
-Bedminster,2018,294375
-Bedminster,2019,285812.5
-Bedminster,2020,302961.875
-Bedminster,2021,323750
-Bedminster,2022,358537.375
-Bedminster,2023,397575
-Avonmouth and Lawrence Weston,2018,219500
-Avonmouth and Lawrence Weston,2019,225000
-Avonmouth and Lawrence Weston,2020,225950
-Avonmouth and Lawrence Weston,2021,257656.25
-Avonmouth and Lawrence Weston,2022,271718.75
-Avonmouth and Lawrence Weston,2023,285000
-Bishopsworth,2018,237240.625
-Bishopsworth,2019,258047.5
-Bishopsworth,2020,275500
-Bishopsworth,2021,294625
-Bishopsworth,2022,298125
-Bishopsworth,2023,315000
-Bishopston and Ashley Down,2018,380200
-Bishopston and Ashley Down,2019,386343.75
-Bishopston and Ashley Down,2020,384562.5
-Bishopston and Ashley Down,2021,431812.5
-Bishopston and Ashley Down,2022,465812.5
-Bishopston and Ashley Down,2023,482500
-Brislington East,2018,239125
-Brislington East,2019,245187.5
-Brislington East,2020,248687.5
-Brislington East,2021,264750
-Brislington East,2022,288500
-Brislington East,2023,325000
-Easton,2018,269279.625
-Easton,2019,270750
-Easton,2020,276450
-Easton,2021,310265.625
-Easton,2022,345782.5
-Easton,2023,360000
-Clifton,2018,417875
-Clifton,2019,411187.5
-Clifton,2020,409875
-Clifton,2021,433437.5
-Clifton,2022,441262.5
-Clifton,2023,440902.5
-Frome Vale,2018,262368.75
-Frome Vale,2019,267122.5
-Frome Vale,2020,275562.5
-Frome Vale,2021,299125
-Frome Vale,2022,312437.5
-Frome Vale,2023,320500
-Filwood,2018,220777.75
-Filwood,2019,225499.375
-Filwood,2020,232373.75
-Filwood,2021,259746.25
-Filwood,2022,268750
-Filwood,2023,291000
-Cotham,2018,336187.5
-Cotham,2019,321062.5
-Cotham,2020,360875
-Cotham,2021,374237.5
-Cotham,2022,370312.5
-Cotham,2023,390000
-Clifton Down,2018,381128.625
-Clifton Down,2019,369380
-Clifton Down,2020,408875
-Clifton Down,2021,425375
-Clifton Down,2022,426625
-Clifton Down,2023,450000
-Brislington West,2018,284668.75
-Brislington West,2019,260750
-Brislington West,2020,278373.75
-Brislington West,2021,310875
-Brislington West,2022,350290
-Brislington West,2023,380000
-Eastville,2018,237831.25
-Eastville,2019,247248.75
-Eastville,2020,252748.75
-Eastville,2021,277124.375
-Eastville,2022,298837.5
-Eastville,2023,330000
-Central,2018,251250
-Central,2019,258937.5
-Central,2020,276750
-Central,2021,315250
-Central,2022,267250
-Central,2023,270000
-Hartcliffe and Withywood,2018,188062.5
-Hartcliffe and Withywood,2019,194500
-Hartcliffe and Withywood,2020,197000
-Hartcliffe and Withywood,2021,217625
-Hartcliffe and Withywood,2022,244612.5
-Hartcliffe and Withywood,2023,260000
-Lockleaze,2018,248875
-Lockleaze,2019,250487.5
-Lockleaze,2020,252375
-Lockleaze,2021,279875
-Lockleaze,2022,305812.5
-Lockleaze,2023,331375
-Hillfields,2018,237000
-Hillfields,2019,236250
-Hillfields,2020,248062.5
-Hillfields,2021,261125
-Hillfields,2022,289437.5
-Hillfields,2023,317000
-Henbury and Brentry,2018,232687.5
-Henbury and Brentry,2019,231800
-Henbury and Brentry,2020,233737.5
-Henbury and Brentry,2021,255687.5
-Henbury and Brentry,2022,277123.75
-Henbury and Brentry,2023,300000
-Redland,2018,472843.75
-Redland,2019,466486
-Redland,2020,521593.75
-Redland,2021,578125
-Redland,2022,559375
-Redland,2023,590000
-Horfield,2018,291937.5
-Horfield,2019,313750
-Horfield,2020,322700.125
-Horfield,2021,355150
-Horfield,2022,357668.75
-Horfield,2023,375000
-Knowle,2018,256993.75
-Knowle,2019,285250
-Knowle,2020,292375
-Knowle,2021,338324.375
-Knowle,2022,350250
-Knowle,2023,376500
-Lawrence Hill,2018,221893.75
-Lawrence Hill,2019,211937.5
-Lawrence Hill,2020,234500
-Lawrence Hill,2021,258631.25
-Lawrence Hill,2022,260562.5
-Lawrence Hill,2023,275000
-Hengrove and Whitchurch Park,2018,227375
-Hengrove and Whitchurch Park,2019,234980.625
-Hengrove and Whitchurch Park,2020,240062.5
-Hengrove and Whitchurch Park,2021,249625
-Hengrove and Whitchurch Park,2022,275125
-Hengrove and Whitchurch Park,2023,301750
-Hotwells and Harbourside,2018,302875
-Hotwells and Harbourside,2019,349750
-Hotwells and Harbourside,2020,369800
-Hotwells and Harbourside,2021,357500
-Hotwells and Harbourside,2022,353125
-Hotwells and Harbourside,2023,379000
-St George Central,2018,220125
-St George Central,2019,231000
-St George Central,2020,233250
-St George Central,2021,259625
-St George Central,2022,281250
-St George Central,2023,302500
-Stockwood,2018,242875
-Stockwood,2019,246937.5
-Stockwood,2020,257750
-Stockwood,2021,271750
-Stockwood,2022,294931.25
-Stockwood,2023,311000
-Southmead,2018,239375
-Southmead,2019,240968.75
-Southmead,2020,244781.25
-Southmead,2021,263812.5
-Southmead,2022,279437.5
-Southmead,2023,305000
-Stoke Bishop,2018,465875
-Stoke Bishop,2019,485000
-Stoke Bishop,2020,501031.25
-Stoke Bishop,2021,533125
-Stoke Bishop,2022,509062.5
-Stoke Bishop,2023,530000
-Westbury-on-Trym and Henleaze,2018,513387.5
-Westbury-on-Trym and Henleaze,2019,537125
-Westbury-on-Trym and Henleaze,2020,545750
-Westbury-on-Trym and Henleaze,2021,565125
-Westbury-on-Trym and Henleaze,2022,647562.5
-Westbury-on-Trym and Henleaze,2023,683000
 Windmill Hill,2018,301425
 Windmill Hill,2019,313462.5
 Windmill Hill,2020,319562.5
 Windmill Hill,2021,347375
 Windmill Hill,2022,378125
 Windmill Hill,2023,415050
-Southville,2018,284702.5
-Southville,2019,276362.5
-Southville,2020,342937.5
-Southville,2021,375875
-Southville,2022,377781.25
-Southville,2023,400000
-St George Troopers Hill,2018,238748.75
-St George Troopers Hill,2019,242625
-St George Troopers Hill,2020,246250
-St George Troopers Hill,2021,270250
-St George Troopers Hill,2022,303625
-St George Troopers Hill,2023,326000
-St George West,2018,239998.75
-St George West,2019,227493.75
-St George West,2020,233473.625
-St George West,2021,271498.75
-St George West,2022,288125
-St George West,2023,332500
