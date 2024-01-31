@@ -15,18 +15,18 @@
   "params": [
     {
       "name": "Year",
-      "value": 2017,
+      "value": 2023,
       "bind": {
         "input": "range",
         "min": 1995,
-        "max": 2017,
+        "max": 2023,
         "step": 1,
         "name": "Year Selector:"
       }
     }
   ],
   "data": {
-    "url": "https://raw.githubusercontent.com/samedwardsjones/datascience/main/updated_houseprices.csv",
+    "url": "https://raw.githubusercontent.com/samedwardsjones/datascience/main/updated_housepricesFINAL.csv",
     "format": {"type": "csv"}
   },
   "transform": [

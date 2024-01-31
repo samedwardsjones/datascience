@@ -9,7 +9,7 @@
     "subtitle": ["Avocado Export Data by Country"],
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 12,
-    "anchor": "start",
+    "anchor": "middle",
     "color": "white"
   },
   "data": {

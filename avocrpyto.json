@@ -1,0 +1,36 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "#7DAB48",
+  "title": {
+    "text": "An alternate universe - How does an avocado themed CryptoCoin cope?",
+    "subtitle": ["The prices of gold, Ethereum, FTSE 100 and AvocadoCoin"],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "middle",
+    "color": "white"
+    
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/samedwardsjones/datascience/main/AVOTOTHEMOON.csv"
+  },
+  "repeat": {"layer": ["Gold", "Ethereum", "FTSE 100", "AvocadoCoin"]},
+  "spec": {
+    "height": 400,
+    "width": 900,
+    "mark": {"type": "line", "strokeWidth": 2},
+    "encoding": {
+      "x": {"field": "Date", "type": "temporal"},
+      "y": {
+        "field": {"repeat": "layer"},
+        "type": "quantitative",
+        "title": "% change"
+      },
+      "color": {
+        "datum": {"repeat": "layer"},
+        "scale": {"range": ["Gold", "Blue", "Black", "White"]},
+        "legend": "object"
+      }
+    }
+  },
+  "config": {}
+}
