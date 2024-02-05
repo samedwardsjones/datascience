@@ -1,0 +1,98 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "#7DAB48",
+  "title": {
+    "text": "How much would your house cost in Avocados?",
+    "fontSize": 18,
+    "subtitle": [
+      "The number of Avocado Toast servings required to purchase a property accross Bristol (Black) and the inflation adjusted cost to make Avocado Toast at home"
+    ],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "middle",
+    "color": "white"
+  },
+  "height": 450,
+  "width": 630,
+  "data": {
+    "url": "https://raw.githubusercontent.com/samedwardsjones/datascience/main/housewithavoprice.csv"
+  },
+  "layer": [
+    {
+      "mark": {"type": "circle", "color": "black", "opacity": 0.5},
+      "encoding": {
+        "x": {"field": "Year", "type": "temporal", "title": "Year"},
+        "y": {
+          "field": "AvoToastCost",
+          "type": "quantitative",
+          "title": "Number of Avocado Toast Meals to Purchase a House (inflation adjusted)(£)"
+        },
+        "size": {
+          "field": "Value",
+          "type": "quantitative",
+          "title": "Median Property Value"
+        }
+      }
+    },
+    {
+      "mark": {"type": "line", "color": "white"},
+      "encoding": {
+        "x": {"field": "Year", "type": "temporal"},
+        "y": {
+          "field": "AvoCost",
+          "type": "quantitative",
+          "title": "Cost to make 1 serving of Avocado Toast (inflation adjusted)(£)"
+        }
+      }
+    }
+  ],
+  "resolve": {"scale": {"y": "independent"}},
+  "selection": {
+    "Region": {
+      "type": "single",
+      "fields": ["Ward"],
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Ashley",
+          "Bedminster",
+          "Avonmouth and Lawrence Weston",
+          "Bishopsworth",
+          "Bishopston and Ashley Down",
+          "Brislington East",
+          "Easton",
+          "Clifton",
+          "Frome Vale",
+          "Filwood",
+          "Cotham",
+          "Clifton Down",
+          "Brislington West",
+          "Eastville",
+          "Central",
+          "Hartcliffe and Withywood",
+          "Lockleaze",
+          "Hillfields",
+          "Henbury and Brentry",
+          "Redland",
+          "Horfield",
+          "Knowle",
+          "Lawrence Hill",
+          "Hengrove and Whitchurch Park",
+          "Hotwells and Harbourside",
+          "St George Central",
+          "Stockwood",
+          "Southmead",
+          "Stoke Bishop",
+          "Westbury-on-Trym and Henleaze",
+          "Windmill Hill",
+          "Southville",
+          "St George Troopers Hill",
+          "St George West"
+        ],
+        "name": "Region"
+      }
+    }
+  },
+  "config": {}
+}

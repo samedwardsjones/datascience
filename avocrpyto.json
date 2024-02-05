@@ -3,6 +3,7 @@
   "background": "#7DAB48",
   "title": {
     "text": "An alternate universe - How does an avocado themed CryptoCoin cope?",
+    "fontSize": 18,
     "subtitle": ["The prices of gold, Ethereum, FTSE 100 and AvocadoCoin"],
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 10,
