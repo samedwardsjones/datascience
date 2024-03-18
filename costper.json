@@ -25,7 +25,7 @@
         "y": {
           "field": "AvoToastCost",
           "type": "quantitative",
-          "title": "Number of Avocado Toast Meals to Purchase a House (inflation adjusted)(£)"
+          "title": "Number of Avocado Toast Meals to Purchase a House (inflation adjusted)"
         },
         "size": {
           "field": "Value",
