@@ -21,17 +21,30 @@
     {
       "mark": {"type": "circle", "color": "black", "opacity": 0.5},
       "encoding": {
-        "x": {"field": "Year", "type": "temporal", "title": "Year"},
+        "x": {"field": "Year",
+              "type": "temporal", 
+              "title": "Year", 
+              "axis": {"labelColor": "white", "titleColor": "white"}},
         "y": {
           "field": "AvoToastCost",
           "type": "quantitative",
-          "title": "Number of Avocado Toast Meals to Purchase a House (inflation adjusted)"
+          "title": "Number of Avocado Toast Meals to Purchase a House (inflation adjusted)",
+          "axis": {"labelColor": "black", "titleColor": "black"}
         },
         "size": {
           "field": "Value",
           "type": "quantitative",
           "title": "Median Property Value"
-        }
+        },
+        "tooltip": [
+          {
+            "field": "AvoToastCost",
+            "type": "quantitative",
+            "title": "Number of Avocado Toast servings to purchase a house",
+            "format": ",.0f"
+          },
+          {"field": "Ward", "type": "nominal"}
+        ]
       }
     },
     {
@@ -41,7 +54,8 @@
         "y": {
           "field": "AvoCost",
           "type": "quantitative",
-          "title": "Cost to make 1 serving of Avocado Toast (inflation adjusted)(£)"
+          "title": "Cost to make 1 serving of Avocado Toast (inflation adjusted)(£)",
+          "axis": {"labelColor": "white", "titleColor": "white"}
         }
       }
     }
