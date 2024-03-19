@@ -20,7 +20,7 @@
     "width": 900,
     "mark": {"type": "line", "strokeWidth": 2},
     "encoding": {
-      "x": {"field": "Date", "type": "temporal"},
+      "x": {"field": "Date", "type": "temporal", "title": "Date: February 2022 - December 2023"},
       "y": {
         "field": {"repeat": "layer"},
         "type": "quantitative",
