@@ -4,7 +4,7 @@
   "height": 350,
   "width": 630,
   "title": {
-    "text": "Avocado Exports to the UK by Country",
+    "text": "Figure 3: Avocado Exports to the UK by Country",
     "fontSize": 18,
     "subtitle": ["Avocado Export Data by Country"],
     "subtitleFontStyle": "italic",

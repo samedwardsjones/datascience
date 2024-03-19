@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "background": "#7DAB48",
   "title": {
-    "text": "An alternate universe - How does an avocado themed CryptoCoin cope?",
+    "text": "Figure 6: An alternate universe - How does an avocado themed CryptoCoin cope?",
     "fontSize": 18,
     "subtitle": ["The prices of gold, Ethereum, FTSE 100 and AvocadoCoin"],
     "subtitleFontStyle": "italic",

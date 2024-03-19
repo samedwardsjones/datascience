@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "background": "#7DAB48",
   "title": {
-    "text": "The Cost of Avocado Toast Ingredients",
+    "text": "Figure 4: The Cost of Avocado Toast Ingredients",
     "fontSize": 18,
     "subtitle": [
       "The cost of a standardised 2 slices of bread and the cost of one avocado",

@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Regional House Prices in the UK 1986-2021",
+    "text": "Figure 1: Regional House Prices in the UK 1986-2021",
     "color": "white",
     "fontSize": 18,
     "subtitle": "Figure 1 - Time series regression of Regional Housing prices in the UK. Source: ONS",

@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "background": "#7DAB48",
   "title": {
-    "text": "How much would your house cost in Avocados?",
+    "text": "Figure 5: How much would your house cost in Avocados?",
     "fontSize": 18,
     "subtitle": [
       "The number of Avocado Toast servings required to purchase a property accross Bristol (Black) and the inflation adjusted cost to make Avocado Toast at home"

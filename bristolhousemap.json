@@ -4,7 +4,7 @@
   "width": 500,
   "height": 400,
   "title": {
-    "text": "Median House Prices in Bristol Wards",
+    "text": "Figure 2: Median House Prices in Bristol Wards",
     "color": "white",
     "subtitle": "1995-2017 Data, Source: ONS",
     "fontSize": 15,
