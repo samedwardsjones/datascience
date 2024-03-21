@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega/v5.json",
     "background": "#7DAB48",
     "description": "A word cloud visualization depicting Vega research paper abstracts.",
-    "width": 1200,
+    "width": 800,
     "height": 400,
     "padding": 0,
   
