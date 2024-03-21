@@ -294,17 +294,40 @@
                 the Github Repository <a
                 href=https://github.com/samedwardsjones/datascience>here</a>. 
             </p>
-            <h3>Figure 1: Lorem ipsum dolor sit amet </h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ultrices eros non tristique posuere. 
-                Phasellus quis pulvinar leo, sed egestas leo. Duis consequat neque quis sodales volutpat. Morbi maximus bibendum scelerisque. Nam at lacus vitae dui cursus lacinia a aliquam justo. Maecenas nulla diam, porttitor in lectus vel, ultrices mollis urna. Sed efficitur congue lacinia. Integer dictum, odio quis lacinia volutpat, erat dui malesuada eros, 
-                id lacinia lacus felis eu massa. Mauris sagittis eu sem maximus ornare.
+            <h3>Figure 1: Regional House Prices in the UK 1986-2021. </h3>
+            <p>This data was sourced using ONS data for house prices across different wards in Bristol. The data available was only up until 1986, so I could not go further back than this.
+                Some of the data needed cleaning, as earlier years were represented quartely, but later years were yearly.
             </p>
-            <h3>Figure 2: Lorem ipsum dolor sit amet </h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ultrices eros non tristique posuere. 
-                Phasellus quis pulvinar leo, sed egestas leo. Duis consequat neque quis sodales volutpat. Morbi maximus bibendum scelerisque. Nam at lacus vitae dui cursus lacinia a aliquam justo. Maecenas nulla diam, porttitor in lectus vel, ultrices mollis urna. Sed efficitur congue lacinia. Integer dictum, odio quis lacinia volutpat, erat dui malesuada eros, 
-                id lacinia lacus felis eu massa. Mauris sagittis eu sem maximus ornare.
+            <h3>Figure 2: Median House Prices in Bristol Wards </h3>
+            <p>This graph uses the aforementioned ward house price data, but is instead presented in an interactive map format. The map is created using a GeoJSON for Bristol wards.
+                The biggest issue I faced here was that the lookup variable for wards required the same naming convention for both data sets (house price data and GeoJSON). This was an easy cleaning
+                as it required that place names were aligned. Examples include respective data sets having "Clifton West" and "Clifton Village" which needed to be aligned. 
+            </p>
+
+            <h3>Figure 3: Avocado Exports to the UK by Country </h3>
+            <p>This graph also uses a GeoJSON, but this time for a world map. Similar issues occured with the 2 data sets having slight different naming conventions. For example, one
+                data set having Côte d'Ivoire and the other having Ivory Coast. This was easy to spot, as countries that weren't aligned appeared as blanks on the map. The mitigation involved
+                going into the avocado export data and ensuring that the naming was aligned with the GeoJSON data.
+            </p>
+
+            <h3>Figure 4: Avocado Exports to the UK by Country </h3>
+            <p>This graph was created by manual research of the UK's biggest supermarkets. The same loaf of bread was used to formulate costs, as well as the cheapest option
+                to purchase avocados.
+            </p>
+            <h3>Figure 5: How much would your house cost in avocados? </h3>
+            <p>This graph is a combination of house price data and avocado cost data. However, I have used ONS provided inflation data to be able to adjust the cost to produce avocado toast
+                to ensure that is it inflation adjusted.
+            </p>
+
+            <h3>Figure 6: An alternate universe - How does an avocado themed CryptoCoin cope?</h3>
+            <p>To create this graph, I used a jupyter notebook to extract data from Yahoo Finance. I imported pandas, numpy matplotlib and seaborn to do this.
+                By using the yfinance import as well, I was able to extract informatiion for the stocks of my choice. I then cleaned this data using for loops to select the timeframes that I wanted.
+                I was able to export this data using the to_csv which allowed me to visualise the data using vegalite. A link to the Jupyter notebook can be found <a
+                href=https://colab.research.google.com/drive/1o7fJvgW08hPs7NWx8qaR3wWAIhyYHZhN>here</a>.
+
             </p>
             
+        
         </div>
     </div>
 
