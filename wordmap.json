@@ -1,0 +1,78 @@
+{
+    "$schema": "https://vega.github.io/schema/vega/v5.json",
+    "background": "#7DAB48",
+    "description": "A word cloud visualization depicting Vega research paper abstracts.",
+    "width": 800,
+    "height": 400,
+    "padding": 0,
+  
+    "data": [
+      {
+        "name": "table",
+        "values": [
+          "Avocado toast has become a beloved dish, celebrated for its simplicity and versatility. Heres how you can create this delightful treat: Basic Avocado Toast: Start with a thick slice of whole-grain bread (sourdough works wonderfully too). Toast it until its golden and firm. While the bread is toasting, prepare your avocado. Cut a ripe avocado in half, remove the stone, and scoop out the creamy flesh into a bowl. Mash the avocado with a fork until it reaches your desired texture. Season it with a pinch of sea salt, freshly ground black pepper, and perhaps a touch of chili flakes for some heat. Drizzle extra virgin olive oil over your toast, and then generously spread the mashed avocado on top. Voilà! You have a creamy, crisp, and satisfying breakfast or snack Variations: Now, lets explore some creative twists on avocado toast:Smoked Salmon Avocado Toast: Elevate your avocado toast by adding smoked salmon, capers, and fresh dill. The combination of creamy avocado and savory salmon is a match made in culinary heaven.Egg and Avocado Toast: For a protein boost, place a poached or fried egg on top of your avocado. The runny yolk melds beautifully with the avocado’s richness.Avocado and Feta Toast: Crumble some tangy feta cheese over the avocado. The salty and creamy feta complements the avocado’s mild flavor.Avocado and Radish Toast: Thinly slice radishes and layer them on the avocado. Their peppery crunch adds texture and freshness Avocado and Pomegranate Toast: For a burst of color and sweetness, sprinkle pomegranate arils over your avocado. It’s a delightful balance of flavors.Avocado and Everything Bagel Seasoning Toast: If you love the flavors of an everything bagel, try using store-bought or homemade everything bagel seasoning. The combination of sesame seeds, poppy seeds, garlic, and onion adds a delightful twist to your avocado toast.Remember that avocado toast is best enjoyed immediately, as the avocado tends to brown over time. So grab your favorite bread, slice that avocado, and get creative with toppings"
+        ],
+        "transform": [
+          {
+            "type": "countpattern",
+            "field": "data",
+            "case": "upper",
+            "pattern": "[\\w']{3,}",
+            "stopwords": "(i|me|my|myself|we|us|our|ours|ourselves|you|your|yours|yourself|yourselves|he|him|his|himself|she|her|hers|herself|it|its|itself|they|them|their|theirs|themselves|what|which|who|whom|whose|this|that|these|those|am|is|are|was|were|be|been|being|have|has|had|having|do|does|did|doing|will|would|should|can|could|ought|i'm|you're|he's|she's|it's|we're|they're|i've|you've|we've|they've|i'd|you'd|he'd|she'd|we'd|they'd|i'll|you'll|he'll|she'll|we'll|they'll|isn't|aren't|wasn't|weren't|hasn't|haven't|hadn't|doesn't|don't|didn't|won't|wouldn't|shan't|shouldn't|can't|cannot|couldn't|mustn't|let's|that's|who's|what's|here's|there's|when's|where's|why's|how's|a|an|the|and|but|if|or|because|as|until|while|of|at|by|for|with|about|against|between|into|through|during|before|after|above|below|to|from|up|upon|down|in|out|on|off|over|under|again|further|then|once|here|there|when|where|why|how|all|any|both|each|few|more|most|other|some|such|no|nor|not|only|own|same|so|than|too|very|say|says|said|shall)"
+          },
+          {
+            "type": "formula", "as": "angle",
+            "expr": "[-45, 0, 45][~~(random() * 3)]"
+          },
+          {
+            "type": "formula", "as": "weight",
+            "expr": "if(datum.text=='VEGA', 600, 300)"
+          }
+        ]
+      }
+    ],
+  
+    "scales": [
+      {
+        "name": "color",
+        "type": "ordinal",
+        "domain": {"data": "table", "field": "text"},
+        "range": ["White", "Gold", "Black"]
+      }
+    ],
+  
+    "marks": [
+      {
+        "type": "text",
+        "from": {"data": "table"},
+        "encode": {
+          "enter": {
+            "text": {"field": "text"},
+            "align": {"value": "center"},
+            "baseline": {"value": "alphabetic"},
+            "fill": {"scale": "color", "field": "text"}
+          },
+          "update": {
+            "fillOpacity": {"value": 1}
+          },
+          "hover": {
+            "fillOpacity": {"value": 0.5}
+          }
+        },
+        "transform": [
+          {
+            "type": "wordcloud",
+            "size": [800, 400],
+            "text": {"field": "text"},
+            "rotate": {"field": "datum.angle"},
+            "font": "Helvetica Neue, Arial",
+            "fontSize": {"field": "datum.count"},
+            "fontWeight": {"field": "datum.weight"},
+            "fontSizeRange": [12, 56],
+            "padding": 2
+          }
+        ]
+      }
+    ]
+  }
+  
